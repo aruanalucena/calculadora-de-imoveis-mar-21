@@ -1,0 +1,1355 @@
+zona,enderecos_lista,area,quartos,aluguel
+norte,"Praça Rafael Mendes De Carvalho, Jardim Paraíso, São Paulo Zona Norte, São Paulo",50.0,2.0,1150
+norte,"Rua Almirante Noronha, Jardim São Paulo, São Paulo Zona Norte, São Paulo",76.0,3.0,1480
+norte,"Rua Cássio De Almeida, Vila Guilherme, São Paulo Zona Norte, São Paulo",30.0,1.0,800
+norte,"Rua Cabo José Da Silva, Parque Novo Mundo, São Paulo Zona Norte, São Paulo",80.0,3.0,1180
+norte,"Parque Domingos Luís, Jardim São Paulo, São Paulo Zona Norte, São Paulo",70.0,2.0,1300
+norte,"Rua Ciridião Durval, Vila Paulista, São Paulo Zona Norte, São Paulo",45.0,1.0,990
+norte,"Rua Soldado Brasílio Pinto De Almeida, Parque Novo Mundo, São Paulo Zona Norte, São Paulo",65.0,2.0,980
+norte,"Rua José Bernardo Pinto, Vila Guilherme, São Paulo Zona Norte, São Paulo",55.0,2.0,1350
+norte,"Rua José Ferreira De Castro, Vila Amélia, São Paulo Zona Norte, São Paulo",49.0,2.0,1430
+norte,"Rua Coronel Marcílio Franco, Vila Isolina Mazzei, São Paulo Zona Norte, São Paulo",70.0,1.0,1260
+norte,"Avenida Parada Pinto, Vila Nova Cachoeirinha, São Paulo Zona Norte, São Paulo",74.0,3.0,1450
+norte,"Avenida Conceição, Jardim Japão, São Paulo Zona Norte, São Paulo",50.0,2.0,1200
+norte,"Rua Conselheiro Moreira De Barros, Lauzane Paulista, São Paulo Zona Norte, São Paulo",60.0,2.0,1600
+norte,"Rua João Ventura Batista, Vila Guilherme, São Paulo Zona Norte, São Paulo",54.0,2.0,1900
+norte,"Rua Professor Antônio Da Costa, Parque Mandaqui, São Paulo Zona Norte, São Paulo",92.0,3.0,1750
+norte,"Rua Antônio Ribeiro De Morais, Vila Carbone, São Paulo Zona Norte, São Paulo",74.0,3.0,1700
+norte,"Rua Nanuque, Jardim Peri, São Paulo Zona Norte, São Paulo",80.0,2.0,2600
+norte,"Rua Santa Leocádia, Vila Isolina Mazzei, São Paulo Zona Norte, São Paulo",57.0,2.0,1500
+norte,"Rua Roque De Morais, Limão, São Paulo Zona Norte, São Paulo",89.0,2.0,1600
+norte,"Avenida Do Guacá, Lauzane Paulista, São Paulo Zona Norte, São Paulo",52.0,2.0,1600
+norte,"Avenida Águas De São Pedro, Vila Paulicéia, São Paulo Zona Norte, São Paulo",110.0,3.0,3300
+norte,"Avenida Boschetti, Vila Medeiros, São Paulo Zona Norte, São Paulo",56.0,2.0,1200
+norte,"Avenida Jardim Japão, Jardim Brasil, São Paulo Zona Norte, São Paulo",53.0,2.0,1300
+norte,"Rua São Nestor, Vila Mazzei, São Paulo Zona Norte, São Paulo",53.0,2.0,1200
+norte,"Rua Domingos José Sapienza, Vila Amália, São Paulo Zona Norte, São Paulo",60.0,3.0,1800
+norte,"Rua Elza Guimarães, Vila Amália, São Paulo Zona Norte, São Paulo",59.0,3.0,1670
+norte,"Rua Capitão Servio Rodrigues Caldas, Vila Dom Pedro Ii, São Paulo Zona Norte, São Paulo",78.0,2.0,1610
+norte,"Rua Dolores Duran, Vila Basileia, São Paulo Zona Norte, São Paulo",80.0,2.0,1872
+norte,"Rua Voluntários Da Pátria, Santana, São Paulo Zona Norte, São Paulo",330.0,4.0,11000
+norte,"Avenida Das Flores, Jardim Peri, São Paulo Zona Norte, São Paulo",40.0,2.0,1200
+norte,"Rua Maria Cândida, Vila Guilherme, São Paulo Zona Norte, São Paulo",50.0,2.0,1800
+norte,"Rua Plácido Leão, Vila Diva (zona Norte), São Paulo Zona Norte, São Paulo",300.0,3.0,3366
+norte,"Rua Doutor Paulo Gatti, Vila Romero, São Paulo Zona Norte, São Paulo",194.0,3.0,6000
+norte,"Rua Igarité, Vila Nova Carolina, São Paulo Zona Norte, São Paulo",108.0,3.0,2500
+norte,"Avenida Celso Garcia, Jardim Brasília (zona Norte), São Paulo Zona Norte, São Paulo",40.0,1.0,1186
+norte,"Rua Dos Jacarandás Mimosos, Vila Nova Mazzei, São Paulo Zona Norte, São Paulo",41.0,1.0,1000
+norte,"Avenida Do Guacá, Lauzane Paulista, São Paulo Zona Norte, São Paulo",122.0,2.0,3750
+norte,"Rua Santa Eudóxia, Parque Peruche, São Paulo Zona Norte, São Paulo",585.0,3.0,3460
+norte,"Rua José Hernandes Gonzáles, Vila Cruz Das Almas, São Paulo Zona Norte, São Paulo",70.0,2.0,2020
+norte,"Rua Itaici, Santa Teresinha, São Paulo Zona Norte, São Paulo",59.0,3.0,2140
+norte,"Rua Campo Comprido, Vila Romero, São Paulo Zona Norte, São Paulo",380.0,3.0,4500
+norte,"Rua Pontins, Santana, São Paulo Zona Norte, São Paulo",590.0,5.0,15000
+norte,"Rua Voluntários Da Pátria, Santana, São Paulo Zona Norte, São Paulo",326.0,4.0,4386
+norte,"Rua Jacaré Copaíba, Vila Marina, São Paulo Zona Norte, São Paulo",52.0,2.0,930
+norte,"Rua Aluísio Azevedo, Santana, São Paulo Zona Norte, São Paulo",72.0,3.0,2600
+norte,"Rua Prainha, Vila Maria Alta, São Paulo Zona Norte, São Paulo",230.0,3.0,4500
+norte,"Rua Cezar Zama, Santana, São Paulo Zona Norte, São Paulo",106.0,3.0,3800
+norte,"Rua Itauna, Vila Maria Baixa, São Paulo Zona Norte, São Paulo",85.0,3.0,1664
+norte,"Rua Domiciano Ribeiro, Casa Verde Alta, São Paulo Zona Norte, São Paulo",60.0,1.0,892
+norte,"Rua Bernardino Fanganiello, Casa Verde, São Paulo Zona Norte, São Paulo",60.0,2.0,1520
+norte,"Avenida General Ataliba Leonel, Parada Inglesa, São Paulo Zona Norte, São Paulo",68.0,2.0,1500
+norte,"Rua Iacaia, Imirim, São Paulo Zona Norte, São Paulo",60.0,2.0,840
+norte,"Rua Paulo Do Vale Júnior, Vila Bancária Munhoz, São Paulo Zona Norte, São Paulo",115.0,2.0,2080
+norte,"Rua Liestal, Lauzane Paulista, São Paulo Zona Norte, São Paulo",48.0,2.0,1600
+norte,"Avenida Conceição, Carandiru, São Paulo Zona Norte, São Paulo",70.0,2.0,3500
+norte,"Rua Carlos Dos Santos, Jardim Brasil, São Paulo Zona Norte, São Paulo",40.0,1.0,880
+norte,"Avenida Conceição, Vila Paiva, São Paulo Zona Norte, São Paulo",63.0,1.0,3060
+norte,"Rua Moreira De Vasconcelos, Vila Maria Alta, São Paulo Zona Norte, São Paulo",155.0,2.0,3060
+norte,"Rua Comendador César Alfieri, Parque São Luís, São Paulo Zona Norte, São Paulo",50.0,2.0,1260
+norte,"Avenida Ultramarino, Lauzane Paulista, São Paulo Zona Norte, São Paulo",50.0,2.0,1417
+norte,"Avenida Das Flores, Jardim Peri, São Paulo Zona Norte, São Paulo",40.0,1.0,1500
+norte,"Avenida Raimundo Pereira De Magalhães, Jardim Peri, São Paulo Zona Norte, São Paulo",42.0,1.0,1400
+norte,"Travessa Renê Vannes, Jardim Peri, São Paulo Zona Norte, São Paulo",110.0,2.0,1600
+norte,"Rua Alegria, Jardim Brasília (zona Norte), São Paulo Zona Norte, São Paulo",39.0,1.0,1900
+norte,"Rua Voluntários Da Pátria, Santana, São Paulo Zona Norte, São Paulo",82.0,3.0,3570
+norte,"Rua Dolores Duran, Vila Basileia, São Paulo Zona Norte, São Paulo",80.0,2.0,1976
+norte,"Rua Silva Guimarães, Vila Ede, São Paulo Zona Norte, São Paulo",110.0,4.0,2200
+norte,"Rua Catugi, Vila Germinal, São Paulo Zona Norte, São Paulo",45.0,2.0,1500
+norte,"Rua Salete, Santana, São Paulo Zona Norte, São Paulo",130.0,3.0,3800
+norte,"Avenida Imperatriz Leopoldina, Jardim Peri, São Paulo Zona Norte, São Paulo",47.0,2.0,1872
+norte,"Rua São Mauro, Jardim São Bento, São Paulo Zona Norte, São Paulo",350.0,5.0,4300
+norte,"Rua Guaranésia, Vila Maria Baixa, São Paulo Zona Norte, São Paulo",79.0,2.0,3000
+norte,"Alameda Segundo-sargento Ananias Holanda De Oliveira, Parque Novo Mundo, São Paulo Zona Norte, São Paulo",80.0,2.0,1200
+norte,"Rua Alfredo Pujol, Santana, São Paulo Zona Norte, São Paulo",60.0,3.0,2200
+norte,"Estrada Do Sabão, Jardim Maristela, São Paulo Zona Norte, São Paulo",275.0,3.0,3270
+norte,"Rua Emílio Goeldi, Jardim Peri, São Paulo Zona Norte, São Paulo",64.0,3.0,2270
+norte,"Avenida Rangel Pestana, Jardim Brasília (zona Norte), São Paulo Zona Norte, São Paulo",38.0,1.0,2810
+norte,"Rua Igarité, Vila Nova Carolina, São Paulo Zona Norte, São Paulo",60.0,3.0,2620
+norte,"Rua Voluntários Da Pátria, Santana, São Paulo Zona Norte, São Paulo",160.0,3.0,5000
+norte,"Praça Rafael Mendes De Carvalho, Jardim Paraíso, São Paulo Zona Norte, São Paulo",50.0,1.0,900
+norte,"Avenida Ede, Vila Ede, São Paulo Zona Norte, São Paulo",140.0,3.0,2700
+norte,"Rua Ciridião Durval, Vila Paulista, São Paulo Zona Norte, São Paulo",40.0,1.0,2300
+norte,"Rua Anthêmios De Tralles, Vila Nova Mazzei, São Paulo Zona Norte, São Paulo",125.0,3.0,2800
+norte,"Mandaqui, São Paulo Zona Norte, São Paulo",160.0,,5500
+norte,"Rua Manuel Pitta, Vila Pita, São Paulo Zona Norte, São Paulo",50.0,1.0,1000
+norte,"Avenida Inajar De Souza, Limão, São Paulo Zona Norte, São Paulo",45.0,1.0,1500
+norte,"Rua Domiciano Ribeiro, Casa Verde Alta, São Paulo Zona Norte, São Paulo",50.0,1.0,787
+norte,"Avenida Yara, Jardim Peri, São Paulo Zona Norte, São Paulo",65.0,2.0,1588
+norte,"Rua São Zeferino, Jardim França, São Paulo Zona Norte, São Paulo",72.0,2.0,1600
+norte,"Avenida Maestro Villa Lobos, Vila Gustavo, São Paulo Zona Norte, São Paulo",43.0,2.0,1300
+norte,"Avenida Gustavo Adolfo, Vila Gustavo, São Paulo Zona Norte, São Paulo",38.0,2.0,1320
+norte,"Rua Lauro Megale, Parque Novo Mundo, São Paulo Zona Norte, São Paulo",40.0,1.0,850
+norte,"Rua Benfica, Jardim Brasil, São Paulo Zona Norte, São Paulo",60.0,1.0,680
+norte,"Santana, São Paulo Zona Norte, São Paulo",50.0,,5500
+norte,"Jardim São Paulo, São Paulo Zona Norte, São Paulo",120.0,,5000
+norte,"Avenida Rangel Pestana, Jardim Brasília (zona Norte), São Paulo Zona Norte, São Paulo",32.0,1.0,1260
+norte,"Nobrega De Souza Coutinho 05, Jardim Peri, São Paulo Zona Norte, São Paulo",70.0,1.0,600
+norte,"Enoch Barreira De Macedo 88, Parque Tietê, São Paulo Zona Norte, São Paulo",90.0,1.0,900
+norte,"Rua José Eduardo Raduan 5, Parque Edu Chaves, São Paulo Zona Norte, São Paulo",80.0,2.0,1299
+norte,"Rua Campo Belo Do Sul 113, Parque Vitória, São Paulo Zona Norte, São Paulo",50.0,1.0,1000
+norte,"Rua Brandão Agrões 176, Jardim Peri, São Paulo Zona Norte, São Paulo",50.0,1.0,800
+norte,"Rua José De Sá Brito 26, Mandaqui, São Paulo Zona Norte, São Paulo",92.0,2.0,1600
+norte,"Narita, Jardim Japão, São Paulo Zona Norte, São Paulo",56.0,2.0,1300
+norte,"Avenida Júlio Buono, Vila Guilherme, São Paulo Zona Norte, São Paulo",50.0,2.0,700
+norte,"Presidente Jânio Da Silva Quadros, Jardim Japão, São Paulo Zona Norte, São Paulo",70.0,2.0,1200
+norte,"Dr. José Gustavo Nunes 8, Parque Edu Chaves, São Paulo Zona Norte, São Paulo",50.0,2.0,920
+norte,"Rua Vicente Ferreira Leite, Vila Siqueira (zona Norte), São Paulo Zona Norte, São Paulo",45.0,2.0,1000
+norte,"Rua Vicente Ferreira Leite, Vila Siqueira (zona Norte), São Paulo Zona Norte, São Paulo",28.0,,750
+norte,"Av. Nossa Senhora Do Loreto 237, Vila Medeiros, São Paulo Zona Norte, São Paulo",35.0,1.0,900
+norte,"Rua Carlos Escobar 282, Santana, São Paulo Zona Norte, São Paulo",10.0,1.0,800
+norte,"Rua Augusto Tolle,,
+                408, Santana, São Paulo Zona Norte, São Paulo",107.0,4.0,2500
+norte,"Yedo, Vila Maria Alta, São Paulo Zona Norte, São Paulo",65.0,2.0,1700
+norte,"Avenida Penha Brasil 2651, Vila Francos, São Paulo Zona Norte, São Paulo",47.0,2.0,1000
+norte,"Avenida Franz Liszt, Jardim Guança, São Paulo Zona Norte, São Paulo",7800.0,,115000
+norte,"Rua Santo Egídio,,
+                709, Santa Teresinha, São Paulo Zona Norte, São Paulo",107.0,3.0,2500
+norte,"R Gaspar Soares, Jardim São Paulo, São Paulo Zona Norte, São Paulo",132.0,,2300
+norte,"General Ataliba Leonel, Parada Inglesa, São Paulo Zona Norte, São Paulo",65.0,2.0,1400
+norte,"Sob Consulta, Parque Mandaqui, São Paulo Zona Norte, São Paulo",45.0,2.0,1800
+norte,"Rua Aída Gomes Tolêdo, Imirim, São Paulo Zona Norte, São Paulo",47.0,2.0,1000
+norte,"Avenida Deputado Emílio Carlos,
+                674b, Limão, São Paulo Zona Norte, São Paulo",130.0,,2500
+norte,"Jardim Peri, São Paulo Zona Norte, São Paulo",950.0,,21000
+norte,"Avenida Mazzei, Vila Mazzei, São Paulo Zona Norte, São Paulo",15.0,1.0,750
+norte,"Sob Consulta, Parque Mandaqui, São Paulo Zona Norte, São Paulo",67.0,2.0,1600
+norte,"Rua João De Souto Maior, Vila Medeiros, São Paulo Zona Norte, São Paulo",55.0,2.0,1450
+norte,"Rua Emílio Goeldi, Jardim Peri, São Paulo Zona Norte, São Paulo",62.0,3.0,2200
+norte,"Jardim França, São Paulo Zona Norte, São Paulo",160.0,4.0,5400
+norte,"Lucerna, Jardim Leonor Mendes De Barros, São Paulo Zona Norte, São Paulo",70.0,2.0,1800
+norte,"Jose Pedro D´oro 451, Vila Francos, São Paulo Zona Norte, São Paulo",50.0,2.0,1400
+norte,"Rua Artur, Imirim, São Paulo Zona Norte, São Paulo",48.0,2.0,1200
+norte,"Rua Epaminondas Melo Do Amaral, Sítio Do Mandaqui, São Paulo Zona Norte, São Paulo",46.0,2.0,1400
+norte,"R Doutor Artur Guimarães, Santana, São Paulo Zona Norte, São Paulo",30.0,,2000
+norte,"Rua José De Almeida, Vila Medeiros, São Paulo Zona Norte, São Paulo",35.0,1.0,900
+norte,"Rua Santo Adolfo, Vila Medeiros, São Paulo Zona Norte, São Paulo",120.0,2.0,1200
+norte,"Conceição, Jardim Japão, São Paulo Zona Norte, São Paulo",110.0,2.0,2200
+norte,"Rua Paulo Vidigal Vicente De Azevedo, Jardim Peri, São Paulo Zona Norte, São Paulo",58.0,2.0,1550
+norte,"Rua Antônio Dias Da Silva, Vila Amália, São Paulo Zona Norte, São Paulo",60.0,2.0,1120
+norte,"Avenida Guilherme Cotching, Vila Maria, São Paulo Zona Norte, São Paulo",80.0,3.0,1910
+norte,"Avenida Mazzei, Vila Mazzei, São Paulo Zona Norte, São Paulo",80.0,3.0,1300
+norte,"Rua Henrique Felipe Da Costa, Vila Guilherme, São Paulo Zona Norte, São Paulo",62.0,2.0,1600
+norte,"Rua Nicolau Tolentino De Almeida 61, Vila Dionisia, São Paulo Zona Norte, São Paulo",45.0,2.0,1000
+norte,"Rua Buracica, Jardim Modelo, São Paulo Zona Norte, São Paulo",30.0,1.0,1150
+norte,"Rua Voluntários Da Pátria, Santana, São Paulo Zona Norte, São Paulo",90.0,3.0,1560
+norte,"Rua Ismael Neri, Água Fria, São Paulo Zona Norte, São Paulo",60.0,1.0,1400
+norte,"Paulo De Avelar, Vila Dom Pedro Ii, São Paulo Zona Norte, São Paulo",90.0,,2500
+norte,"Avenida Braz Leme, Santana, São Paulo Zona Norte, São Paulo",100.0,3.0,2150
+norte,"Rua Padre Azevedo, Jardim São Paulo, São Paulo Zona Norte, São Paulo",321.0,3.0,7800
+norte,"Rua Francisca Júlia, Santana, São Paulo Zona Norte, São Paulo",130.0,3.0,4750
+norte,"Rua Galiléia, Casa Verde, São Paulo Zona Norte, São Paulo",450.0,2.0,8000
+norte,"Rua Jaboatão, Casa Verde, São Paulo Zona Norte, São Paulo",65.0,2.0,1470
+norte,"Avenida José Maria Fernandes, Parque Novo Mundo, São Paulo Zona Norte, São Paulo",64.0,3.0,1600
+norte,"Soldado José Rufino Costa, Parque Novo Mundo, São Paulo Zona Norte, São Paulo",600.0,,10000
+norte,"Reims 120, Casa Verde, São Paulo Zona Norte, São Paulo",70.0,3.0,1799
+norte,"Rua Caetano Gonçalves, Chora Menino, São Paulo Zona Norte, São Paulo",70.0,1.0,1365
+norte,"Rua Francisca Júlia, Santana, São Paulo Zona Norte, São Paulo",224.0,3.0,5400
+norte,"Rua Aragão, Vila Mazzei, São Paulo Zona Norte, São Paulo",35.0,1.0,1200
+norte,"Avenida Nova Cantareira, Tucuruvi, São Paulo Zona Norte, São Paulo",75.0,2.0,4200
+norte,"Rua Araçoiaba Da Serra, Tucuruvi, São Paulo Zona Norte, São Paulo",50.0,2.0,1900
+norte,"Rua Maquinista Trigo, Vila Isolina Mazzei, São Paulo Zona Norte, São Paulo",50.0,1.0,1250
+norte,"Rua José Debieux, Santana, São Paulo Zona Norte, São Paulo",66.0,2.0,2500
+norte,"Rua Danúbio Azul, Jardim Japão, São Paulo Zona Norte, São Paulo",380.0,4.0,12880
+norte,"Rua Jeni Klabin Segall, Sítio Do Mandaqui, São Paulo Zona Norte, São Paulo",100.0,3.0,2150
+norte,"Rua Eurico Sodré, Vila Medeiros, São Paulo Zona Norte, São Paulo",100.0,2.0,1800
+norte,"Rua Aburá, Sítio Do Mandaqui, São Paulo Zona Norte, São Paulo",80.0,2.0,2660
+norte,"Avenida Jaçanã, Jaçanã, São Paulo Zona Norte, São Paulo",90.0,3.0,1900
+norte,"Rua Araritaguaba, Vila Maria, São Paulo Zona Norte, São Paulo",120.0,2.0,2800
+norte,"Rua Álvaro Dos Santos, Jardim Brasil, São Paulo Zona Norte, São Paulo",30.0,1.0,850
+norte,"Rua Santa Eudóxia, 963 Cs 9, Parque Peruche, São Paulo Zona Norte, São Paulo",55.0,2.0,1375
+norte,"Rua Adelfa De Figueiredo, Jardim Paraíso, São Paulo Zona Norte, São Paulo",82.0,2.0,4000
+norte,"Avenida Guilherme Cotching, Vila Maria, São Paulo Zona Norte, São Paulo",60.0,2.0,1630
+norte,"Av. Álvaro Machado Pedrosa, Parada Inglesa, São Paulo Zona Norte, São Paulo",120.0,4.0,2180
+norte,"Rua Carlos Escobar, Santana, São Paulo Zona Norte, São Paulo",162.0,4.0,4460
+norte,"Rua Augusto Gil, Vila Dionisia, São Paulo Zona Norte, São Paulo",80.0,4.0,2400
+norte,"Avenida Júlio Buono, Vila Gustavo, São Paulo Zona Norte, São Paulo",62.0,2.0,3000
+norte,"Rua Jaguaretê, Casa Verde, São Paulo Zona Norte, São Paulo",53.0,2.0,1670
+norte,"Rua Márcio Mazzei, Vila Nova Mazzei, São Paulo Zona Norte, São Paulo",67.0,2.0,1280
+norte,"Rua Carlos Gomes, Tucuruvi, São Paulo Zona Norte, São Paulo",90.0,3.0,2500
+norte,"Avenida Santa Inês, Parque Mandaqui, São Paulo Zona Norte, São Paulo",120.0,2.0,1680
+norte,"Rua José De Almeida, Vila Medeiros, São Paulo Zona Norte, São Paulo",82.0,3.0,1840
+norte,"Avenida General Ataliba Leonel, Parada Inglesa, São Paulo Zona Norte, São Paulo",60.0,2.0,2400
+norte,"Avenida Clavásio Alves Da Silva, Vila Siqueira (zona Norte), São Paulo Zona Norte, São Paulo",90.0,3.0,1520
+norte,"Rua Monte Cassino, Casa Verde, São Paulo Zona Norte, São Paulo",577.0,5.0,15000
+norte,"Rua Doutor Guilherme Cristoffel, Santana, São Paulo Zona Norte, São Paulo",229.0,4.0,7500
+norte,"Rua Galiléia, Casa Verde Média, São Paulo Zona Norte, São Paulo",300.0,3.0,3500
+norte,"Avenida Sanatório, Jardim Modelo, São Paulo Zona Norte, São Paulo",40.0,1.0,950
+norte,"Rua Doutor Pedro Jabur, Vila Pereira Cerca, São Paulo Zona Norte, São Paulo",90.0,2.0,1365
+norte,"Rua Ida Da Silva, Vila Guilherme, São Paulo Zona Norte, São Paulo",100.0,2.0,2616
+norte,"Rua José De Oliveira, Parque Peruche, São Paulo Zona Norte, São Paulo",50.0,2.0,1560
+norte,"Rua Artur, Imirim, São Paulo Zona Norte, São Paulo",60.0,1.0,1200
+norte,"Rua Dos Sitiantes, Itaberaba, São Paulo Zona Norte, São Paulo",85.0,2.0,2070
+norte,"Rua Itamonte, Vila Medeiros, São Paulo Zona Norte, São Paulo",48.0,2.0,2050
+norte,"Rua Emílio Rodrigues, Vila Paiva, São Paulo Zona Norte, São Paulo",90.0,2.0,1900
+norte,"Rua Plácido Leão, Vila Diva (zona Norte), São Paulo Zona Norte, São Paulo",250.0,3.0,2500
+norte,"Rua Macaiá-mirim, Santana, São Paulo Zona Norte, São Paulo",110.0,3.0,2300
+norte,"Rua Eugênio De Freitas, Vila Guilherme, São Paulo Zona Norte, São Paulo",49.0,2.0,2050
+norte,"Avenida Gustavo Adolfo, Vila Gustavo, São Paulo Zona Norte, São Paulo",110.0,2.0,2200
+norte,"Rua Pontins, Santana, São Paulo Zona Norte, São Paulo",78.0,2.0,3400
+norte,"Travessa Dona Amélia Vieira Pita, Chora Menino, São Paulo Zona Norte, São Paulo",55.0,2.0,1850
+norte,"Rua Do Tramway, Tucuruvi, São Paulo Zona Norte, São Paulo",47.0,1.0,1700
+norte,"Rua Ventura Carneiro, Vila Celeste, São Paulo Zona Norte, São Paulo",42.0,2.0,1320
+norte,"Rua Conselheiro Moreira De Barros, Santana, São Paulo Zona Norte, São Paulo",57.0,1.0,1490
+norte,"Rua Voluntários Da Pátria, Santana, São Paulo Zona Norte, São Paulo",23.0,1.0,1600
+norte,"Travessa Urbano Do Carmo Curado, Parque Vitória, São Paulo Zona Norte, São Paulo",70.0,2.0,1650
+norte,"Avenida Rangel Pestana, Jardim Brasília (zona Norte), São Paulo Zona Norte, São Paulo",34.0,1.0,1120
+norte,"Rua Zanzibar, Casa Verde, São Paulo Zona Norte, São Paulo",63.0,1.0,3800
+norte,"Rua George Chahestian, Vila Basileia, São Paulo Zona Norte, São Paulo",150.0,3.0,2560
+norte,"Rua Ezequiel Freire, Santana, São Paulo Zona Norte, São Paulo",80.0,3.0,1800
+norte,"Rua Martiniano De Carvalho, Vila Bela Vista (capital Zona Norte), São Paulo Zona Norte, São Paulo",68.0,2.0,2500
+norte,"Rua Doutor Zuquim, Santana, São Paulo Zona Norte, São Paulo",240.0,3.0,8200
+norte,"Rua Pero De Campos, Água Fria, São Paulo Zona Norte, São Paulo",119.0,3.0,5130
+norte,"Avenida Do Guacá, Lauzane Paulista, São Paulo Zona Norte, São Paulo",78.0,3.0,2480
+norte,"Rua Areia Do Rosário, Jardim Modelo, São Paulo Zona Norte, São Paulo",48.0,2.0,1580
+norte,"R. Pixibas, Vila Gustavo, São Paulo Zona Norte, São Paulo",90.0,1.0,1434
+norte,"Rua Doutor Zuquim, Santana, São Paulo Zona Norte, São Paulo",67.0,3.0,3510
+norte,"Rua Duarte De Azevedo, Santana, São Paulo Zona Norte, São Paulo",90.0,3.0,2100
+norte,"Rua Laranjeira, Jardim Peri, São Paulo Zona Norte, São Paulo",58.0,2.0,1200
+norte,"Rua Eduardo Vicente Nasser, Barro Branco, São Paulo Zona Norte, São Paulo",400.0,3.0,11340
+norte,"Rua Juan Arfe, Vila Cruz Das Almas, São Paulo Zona Norte, São Paulo",45.0,2.0,1600
+norte,"Avenida Parada Pinto, Vila Nova Cachoeirinha, São Paulo Zona Norte, São Paulo",64.0,3.0,2190
+norte,"Avenida Rangel Pestana, Jardim Brasília (zona Norte), São Paulo Zona Norte, São Paulo",29.0,1.0,1490
+norte,"Rua Lídia Coelho, Santana, São Paulo Zona Norte, São Paulo",31.0,1.0,1650
+norte,"Rua Francisco Bernardino, Vila Pereira Cerca, São Paulo Zona Norte, São Paulo",250.0,3.0,4000
+norte,"Rua Itaiquara, Itaberaba, São Paulo Zona Norte, São Paulo",54.0,2.0,1460
+norte,"Avenida Sanatório, Jardim Modelo, São Paulo Zona Norte, São Paulo",59.0,1.0,1250
+norte,"Rua Soror Angélica, Vila Ester (zona Norte), São Paulo Zona Norte, São Paulo",90.0,3.0,2220
+norte,"Rua Sousa Lopes, Lauzane Paulista, São Paulo Zona Norte, São Paulo",284.0,4.0,6780
+norte,"Avenida Zumkeller, Parque Mandaqui, São Paulo Zona Norte, São Paulo",50.0,2.0,1560
+norte,"Rua Manuel José De Almeida, Vila Cruz Das Almas, São Paulo Zona Norte, São Paulo",275.0,5.0,3200
+norte,"Rua Hanna Abduch, Vila Palmeiras, São Paulo Zona Norte, São Paulo",100.0,3.0,1800
+norte,"Rua Alfredo Pujol, Santana, São Paulo Zona Norte, São Paulo",67.0,2.0,1700
+norte,"Rua Engenheiro Albano De Azevedo, Vila Primavera, São Paulo Zona Norte, São Paulo",125.0,2.0,2500
+norte,"Rua Francisco Da Lira, Jardim Leonor Mendes De Barros, São Paulo Zona Norte, São Paulo",92.0,2.0,1785
+norte,"Rua Antônio Campelo, Vila Vitório Mazzei, São Paulo Zona Norte, São Paulo",52.0,2.0,1790
+norte,"Rua Eugênio De Freitas, Vila Guilherme, São Paulo Zona Norte, São Paulo",63.0,3.0,2200
+norte,"Rua Professor João Machado, Nossa Senhora Do Ó, São Paulo Zona Norte, São Paulo",59.0,2.0,2300
+norte,"Rua Casa Forte, Água Fria, São Paulo Zona Norte, São Paulo",300.0,3.0,6000
+norte,"Rua Borges, Parada Inglesa, São Paulo Zona Norte, São Paulo",55.0,2.0,1910
+norte,"Rua Orindiúva, Vila Maria Alta, São Paulo Zona Norte, São Paulo",50.0,2.0,2000
+norte,"Avenida Inajar De Souza, Limão, São Paulo Zona Norte, São Paulo",45.0,2.0,1710
+norte,"Avenida Professor Celestino Bourroul, Limão, São Paulo Zona Norte, São Paulo",75.0,2.0,2270
+norte,"Rua Voluntários Da Pátria, Santana, São Paulo Zona Norte, São Paulo",90.0,2.0,2300
+norte,"Rua Antônio Campelo, Vila Vitório Mazzei, São Paulo Zona Norte, São Paulo",51.0,2.0,1850
+norte,"Rua Pixibas, Vila Gustavo, São Paulo Zona Norte, São Paulo",35.0,1.0,1300
+norte,"Rua Reims, Jardim Das Laranjeiras, São Paulo Zona Norte, São Paulo",90.0,2.0,2300
+norte,"Avenida Itaberaba, Itaberaba, São Paulo Zona Norte, São Paulo",80.0,2.0,1900
+norte,"Rua Guanapus, Vila Dom Pedro Ii, São Paulo Zona Norte, São Paulo",78.0,2.0,2000
+norte,"Avenida Itaberaba, Nossa Senhora Do Ó, São Paulo Zona Norte, São Paulo",56.0,2.0,2360
+norte,"Rua Dos Camarés, Carandiru, São Paulo Zona Norte, São Paulo",49.0,2.0,2200
+norte,"Rua Pontins, Santana, São Paulo Zona Norte, São Paulo",240.0,4.0,5500
+norte,"Rua Voluntários Da Pátria, Santana, São Paulo Zona Norte, São Paulo",40.0,1.0,2500
+norte,"Rua Pedro Madureira, Jardim São Paulo, São Paulo Zona Norte, São Paulo",58.0,2.0,1330
+norte,"Rua Anastácio De Souza Pinto, Nossa Senhora Do Ó, São Paulo Zona Norte, São Paulo",75.0,3.0,2210
+norte,"Rua Baião Parente, Vila Primavera, São Paulo Zona Norte, São Paulo",80.0,3.0,2300
+norte,"Rua Dom Domingos De Silos, Jardim São Bento, São Paulo Zona Norte, São Paulo",400.0,5.0,8680
+norte,"Rua Manuel De Arzão, Vila Albertina, São Paulo Zona Norte, São Paulo",250.0,3.0,6000
+norte,"Rua Diógenes De Lima, Parque Peruche, São Paulo Zona Norte, São Paulo",350.0,4.0,13000
+norte,"Avenida Álvaro Machado Pedrosa, Parada Inglesa, São Paulo Zona Norte, São Paulo",80.0,2.0,1890
+norte,"Rua Gonçalves Figueira, Vila Bandeirantes, São Paulo Zona Norte, São Paulo",300.0,2.0,5000
+norte,"Rua Juan Arfe, Vila Cruz Das Almas, São Paulo Zona Norte, São Paulo",50.0,2.0,1800
+norte,"Rua José De Medeiros, Vila Medeiros, São Paulo Zona Norte, São Paulo",150.0,4.0,3300
+norte,"Rua Padre José Dos Santos, Santana, São Paulo Zona Norte, São Paulo",300.0,3.0,3000
+norte,"Avenida Manoel Pedro Pímentel, Jardim Peri, São Paulo Zona Norte, São Paulo",70.0,3.0,2300
+norte,"Ataliba Vieira, Vila Medeiros, São Paulo Zona Norte, São Paulo",1600.0,,25000
+norte,"Rua Vitalina Moura, Vila Roque, São Paulo Zona Norte, São Paulo",50.0,2.0,1500
+norte,"Rua Vitalina Moura, Vila Roque, São Paulo Zona Norte, São Paulo",50.0,2.0,2190
+norte,"Rua Bartolomeu Faria, Vila Albertina, São Paulo Zona Norte, São Paulo",102.0,3.0,2060
+norte,"Rua José Ataliba Ortiz, Vila Mangalot, São Paulo Zona Norte, São Paulo",55.0,2.0,1600
+norte,"Rua Portão Preto, Vila Mangalot, São Paulo Zona Norte, São Paulo",51.0,2.0,1180
+norte,"Rua Doutor Zuquim, Santana, São Paulo Zona Norte, São Paulo",180.0,2.0,3200
+norte,"Rua Judith Zumkeller, Parque Mandaqui, São Paulo Zona Norte, São Paulo",50.0,2.0,3360
+norte,"Rua Bela Vista Do Paraíso, Vila Palmeiras, São Paulo Zona Norte, São Paulo",52.0,2.0,2800
+norte,"Rua Das Catileias, Vila Nova Mazzei, São Paulo Zona Norte, São Paulo",157.0,3.0,3360
+norte,"Rua Gurupatuba, Vila Mazzei, São Paulo Zona Norte, São Paulo",180.0,3.0,3000
+norte,"Rua Voluntários Da Pátria, Santana, São Paulo Zona Norte, São Paulo",195.0,4.0,5810
+norte,"Avenida Mazzei, Vila Mazzei, São Paulo Zona Norte, São Paulo",15.0,1.0,750
+norte,"Rua Xavier Kraus, Jardim Peri, São Paulo Zona Norte, São Paulo",36.0,2.0,2350
+norte,"Rua Intendência, Jardim Brasília (zona Norte), São Paulo Zona Norte, São Paulo",43.0,2.0,1600
+norte,"Avenida Mazzei, Vila Mazzei, São Paulo Zona Norte, São Paulo",15.0,1.0,750
+norte,"Rua Maria Marcolina, Jardim Brasília (zona Norte), São Paulo Zona Norte, São Paulo",100.0,2.0,1664
+norte,"Rua Dom Bento Pickel, Casa Verde Alta, São Paulo Zona Norte, São Paulo",100.0,1.0,1400
+norte,"Rua Doutor Luís Barreto Filho, Vila Pereira Barreto, São Paulo Zona Norte, São Paulo",300.0,4.0,4000
+norte,"Rua Manuel Cherem, Vila Paulista, São Paulo Zona Norte, São Paulo",55.0,2.0,2100
+norte,"Rua Professor Luis Lucchini, Sítio Do Mandaqui, São Paulo Zona Norte, São Paulo",300.0,4.0,5000
+norte,"Avenida Padre Pereira De Andrade, Jardim Peri, São Paulo Zona Norte, São Paulo",60.0,1.0,3000
+norte,"Rua Anthémios De Tralles, Vila Nova Mazzei, São Paulo Zona Norte, São Paulo",115.0,3.0,2960
+norte,"Rua Anacleto, Vila Isolina Mazzei, São Paulo Zona Norte, São Paulo",92.0,2.0,2350
+norte,"Rua Capricho, Vila Nivi, São Paulo Zona Norte, São Paulo",96.0,3.0,2100
+norte,"Rua Alphonsus De Guimaraens, Santana, São Paulo Zona Norte, São Paulo",141.0,3.0,4000
+norte,"Rua Carlos Weber, Jardim Peri, São Paulo Zona Norte, São Paulo",146.0,3.0,4500
+norte,"Rua Parambu, Parque Vitória, São Paulo Zona Norte, São Paulo",47.0,2.0,1550
+norte,"Rua José Soriano De Sousa, Casa Verde Alta, São Paulo Zona Norte, São Paulo",72.0,2.0,1470
+norte,"Praça Delegado Amoroso Neto, Jardim Das Laranjeiras, São Paulo Zona Norte, São Paulo",67.0,2.0,2000
+norte,"Rua Tito Nicolau, Vila Amália, São Paulo Zona Norte, São Paulo",52.0,2.0,1340
+norte,"Avenida Inajar De Souza, Limão, São Paulo Zona Norte, São Paulo",45.0,2.0,1700
+norte,"Rua Garção Tinoco, Santana, São Paulo Zona Norte, São Paulo",64.0,2.0,2850
+norte,"Rua Justino Alves Batista, Jardim Peri, São Paulo Zona Norte, São Paulo",55.0,2.0,1200
+norte,"Rua Japira, Jardim França, São Paulo Zona Norte, São Paulo",500.0,4.0,4600
+norte,"Rua Voluntários Da Pátria, Santana, São Paulo Zona Norte, São Paulo",40.0,1.0,2500
+norte,"Rua Igapira, Santana, São Paulo Zona Norte, São Paulo",125.0,3.0,3330
+norte,"Avenida Rangel Pestana, Jardim Brasília (zona Norte), São Paulo Zona Norte, São Paulo",32.0,1.0,1500
+norte,"Rua Voluntários Da Pátria, Santana, São Paulo Zona Norte, São Paulo",40.0,1.0,2600
+norte,"Rua Voluntários Da Pátria, Santana, São Paulo Zona Norte, São Paulo",40.0,1.0,2500
+norte,"Rua Professor José Miziara, Santa Teresinha, São Paulo Zona Norte, São Paulo",78.0,2.0,1910
+norte,"Rua Carlos Weber, Jardim Peri, São Paulo Zona Norte, São Paulo",74.0,2.0,2610
+norte,"Rua Antônio Medusa, Vila Pereira Barreto, São Paulo Zona Norte, São Paulo",37.0,1.0,1750
+norte,"Leôncio De Magalhães, Jardim São Paulo, São Paulo Zona Norte, São Paulo",54.0,2.0,1700
+norte,"Rua José Debieux, Santana, São Paulo Zona Norte, São Paulo",54.0,2.0,1800
+norte,"Rua Madrigais, Vila Nova Cachoeirinha, São Paulo Zona Norte, São Paulo",45.0,1.0,1750
+norte,"Rua Alfredo Pujol, Santana, São Paulo Zona Norte, São Paulo",179.0,3.0,5330
+norte,"Avenida Carlos Alberto Moretti, Jardim Peri, São Paulo Zona Norte, São Paulo",65.0,2.0,1500
+norte,"Rua Da Cavalgada, Jardim Julieta, São Paulo Zona Norte, São Paulo",59.0,2.0,1380
+norte,"Rua Piratininga, Jardim Brasília (zona Norte), São Paulo Zona Norte, São Paulo",40.0,1.0,1500
+norte,"Rua Do Lucas, Jardim Brasília (zona Norte), São Paulo Zona Norte, São Paulo",51.0,2.0,1980
+norte,"Rua Manuel Pitta, Vila Pita, São Paulo Zona Norte, São Paulo",55.0,2.0,3500
+norte,"Travessa Álvaro Medina, Jardim Peri, São Paulo Zona Norte, São Paulo",58.0,2.0,2560
+norte,"Rua Aureliano Leal, Água Fria, São Paulo Zona Norte, São Paulo",78.0,2.0,2713
+norte,"Rua Miguel Helou, Parque Monteiro Soares, São Paulo Zona Norte, São Paulo",160.0,2.0,3500
+norte,"Rua Ministro Romeiro Neto, Vila Basileia, São Paulo Zona Norte, São Paulo",46.0,1.0,1310
+norte,"Avenida Guaca 00, Lauzane Paulista, São Paulo Zona Norte, São Paulo",684.0,,20000
+norte,"Rua Ministro Romeiro Neto, Vila Basileia, São Paulo Zona Norte, São Paulo",46.0,1.0,1310
+norte,"Rua Ministro Romeiro Neto, Vila Basileia, São Paulo Zona Norte, São Paulo",46.0,1.0,1310
+norte,"Rua Ministro Romeiro Neto, Vila Basileia, São Paulo Zona Norte, São Paulo",46.0,1.0,1310
+norte,"Rua Ministro Romeiro Neto, Vila Basileia, São Paulo Zona Norte, São Paulo",46.0,1.0,1310
+norte,"Rua Voluntários Da Pátria, Santana, São Paulo Zona Norte, São Paulo",90.0,2.0,1460
+norte,"General Ataliba Leonel, Parada Inglesa, São Paulo Zona Norte, São Paulo",65.0,2.0,1600
+norte,"Rua Durval Moreira Do Amaral, Vila Marina, São Paulo Zona Norte, São Paulo",80.0,2.0,1650
+norte,"Rua Padre Leão Peruche, Vila Mazzei, São Paulo Zona Norte, São Paulo",60.0,2.0,1250
+norte,"Rua Ministro Romeiro Neto, Vila Basileia, São Paulo Zona Norte, São Paulo",46.0,1.0,1310
+norte,"Rua Ministro Romeiro Neto, Vila Basileia, São Paulo Zona Norte, São Paulo",48.0,1.0,1310
+norte,"Avenida Paulo Silva Araújo, Jardim São Paulo, São Paulo Zona Norte, São Paulo",40.0,1.0,2020
+norte,"Rua Antônio Borges, Parque Edu Chaves, São Paulo Zona Norte, São Paulo",47.0,2.0,1470
+norte,"Rua Alberto Arnoldi, Jardim Paraíso, São Paulo Zona Norte, São Paulo",70.0,1.0,1030
+norte,"Das Cerejeiras, Jardim Japão, São Paulo Zona Norte, São Paulo",150.0,,3685
+norte,"Rua Soror Angélica, Vila Ester (zona Norte), São Paulo Zona Norte, São Paulo",95.0,3.0,2184
+norte,"Rua Doutor Carlos Botelho, Jardim Brasília (zona Norte), São Paulo Zona Norte, São Paulo",50.0,1.0,1200
+norte,"Rua Doutor Olavo Egídio, Santana, São Paulo Zona Norte, São Paulo",60.0,1.0,3800
+norte,"Rua Isolina, Jardim Carlu, São Paulo Zona Norte, São Paulo",60.0,2.0,1500
+sul,"Nicolau Barreto 614, Brooklin Novo, São Paulo Zona Sul, São Paulo",73.0,2.0,870000
+sul,"Rua Chapada De Minas 210, Vila Andrade, São Paulo Zona Sul, São Paulo",68.0,3.0,1350
+sul,"Avenida Brigadeiro Luís Antônio, Jardim Paulista, São Paulo Zona Sul, São Paulo",110.0,3.0,3400
+sul,"Rua Nossa Senhora Das Mercês, Vila Das Mercês, São Paulo Zona Sul, São Paulo",65.0,2.0,1050
+sul,"Rua Abdo Ambuba, Vila Andrade, São Paulo Zona Sul, São Paulo",80.0,3.0,1500
+sul,"Edgar De Campos 171, Vila Nair, São Paulo Zona Sul, São Paulo",80.0,2.0,1800
+sul,"Rua Agostinho Gomes, Ipiranga, São Paulo Zona Sul, São Paulo",68.0,2.0,3200
+sul,"Rua Marquês De Herval, 136, Vila Da Saúde, São Paulo Zona Sul, São Paulo",250.0,3.0,5500
+sul,"Rua Leopoldo Couto De Magalhaes Junior, 1088, Itaim Bibi, São Paulo Zona Sul, São Paulo",61.0,1.0,5500
+sul,"Rua Lima E Silva, 160, Ipiranga, São Paulo Zona Sul, São Paulo",260.0,4.0,5500
+sul,"Rua Bacaetava, 66, Vila Gertrudes, São Paulo Zona Sul, São Paulo",95.0,2.0,5500
+sul,"Rua Arapá, Vila Mascote, São Paulo Zona Sul, São Paulo",55.0,2.0,1600
+sul,"Rua Durval Silva, Cidade Domitila, São Paulo Zona Sul, São Paulo",45.0,1.0,620
+sul,"Rua Bueno De Andrade, Aclimação, São Paulo Zona Sul, São Paulo",45.0,1.0,1260
+sul,"Rua Arandu, 205, Brooklin Paulista, São Paulo Zona Sul, São Paulo",90.0,,6200
+sul,"Rua Tito Oliani, São João Climaco, São Paulo Zona Sul, São Paulo",40.0,1.0,780
+sul,"Rua Vergueiro, 3169, Vila Mariana, São Paulo Zona Sul, São Paulo",45.0,1.0,1720
+sul,"Avenida Itaboraí, Bosque Da Saúde, São Paulo Zona Sul, São Paulo",33.0,1.0,1820
+sul,"Vila Olímpia, São Paulo Zona Sul, São Paulo",77.0,,5500
+sul,"Rua Marechal Pimentel, Jardim Santa Cruz (sacomã), São Paulo Zona Sul, São Paulo",62.0,2.0,1341
+sul,"Avenida Washington Luís, Santo Amaro, São Paulo Zona Sul, São Paulo",55.0,1.0,1400
+sul,"Avenida Padre José Maria, Santo Amaro, São Paulo Zona Sul, São Paulo",110.0,3.0,2500
+sul,"Avenida Sargento Geraldo Sant#39ana, Jardim Taquaral, São Paulo Zona Sul, São Paulo",74.0,3.0,1400
+sul,"Rua Assungui, Vila Mariana, São Paulo Zona Sul, São Paulo",78.0,3.0,2080
+sul,"Rua Doutor Neto De Araújo, Vila Mariana, São Paulo Zona Sul, São Paulo",50.0,1.0,2500
+sul,"Rua Frei Rolim, Bosque Da Saúde, São Paulo Zona Sul, São Paulo",186.0,3.0,1510
+sul,"Rua Leopoldo Couto De Magalhaes, 539, Itaim Bibi, São Paulo Zona Sul, São Paulo",45.0,1.0,5500
+sul,"Rua Doutor Mario De Campos, Americanópolis, São Paulo Zona Sul, São Paulo",40.0,1.0,900
+sul,"Rua Augusto Blasi, Jardim Celeste, São Paulo Zona Sul, São Paulo",59.0,2.0,1120
+sul,"Avenida Dos Ourives, Jardim São Savério, São Paulo Zona Sul, São Paulo",60.0,2.0,1100
+sul,"Rua Francisco José Da Silva, Vila Andrade, São Paulo Zona Sul, São Paulo",40.0,1.0,1502
+sul,"Rua Dois De Julho, Ipiranga, São Paulo Zona Sul, São Paulo",34.0,1.0,1900
+sul,"Rua Abdo Ambuba, Vila Andrade, São Paulo Zona Sul, São Paulo",80.0,3.0,1500
+sul,"Rua Humberto I, Vila Mariana, São Paulo Zona Sul, São Paulo",16.0,1.0,3500
+sul,"Avenida Ibijaú, Moema, São Paulo Zona Sul, São Paulo",96.0,3.0,5500
+sul,"Avenida Doutor Mário Vilas Boas Rodrigues, Jardim Dom Bosco, São Paulo Zona Sul, São Paulo",100.0,3.0,4100
+sul,"Rua Desembargador Aragão, Vila Mariana, São Paulo Zona Sul, São Paulo",64.0,2.0,4200
+sul,"Avenida Mascote, Vila Mascote, São Paulo Zona Sul, São Paulo",86.0,3.0,2697
+sul,"Avenida Doutor Cardoso De Melo, Vila Olímpia, São Paulo Zona Sul, São Paulo",43.0,1.0,3500
+sul,"Alameda Itu, Jardim Paulista, São Paulo Zona Sul, São Paulo",90.0,2.0,3300
+sul,"Rua Indiana, Brooklin Paulista, São Paulo Zona Sul, São Paulo",128.0,3.0,8000
+sul,"Rua Virgillio Di Cicco, Bosque Da Saúde, São Paulo Zona Sul, São Paulo",70.0,2.0,2080
+sul,"Rua Abagiba, Saúde, São Paulo Zona Sul, São Paulo",50.0,2.0,1650
+sul,"Rua Fagundes Dias, Saúde, São Paulo Zona Sul, São Paulo",80.0,2.0,2198
+sul,"Rua Dilermando Reis, Jardim Ubirajara (zona Sul), São Paulo Zona Sul, São Paulo",45.0,2.0,1200
+sul,"Rua Diogo Vaz, Cambuci, São Paulo Zona Sul, São Paulo",38.0,1.0,1200
+sul,"Avenida Do Cursino, Vila Moraes, São Paulo Zona Sul, São Paulo",63.0,2.0,1800
+sul,"Rua José Da Silva Ribeiro, Vila Andrade, São Paulo Zona Sul, São Paulo",67.0,3.0,2200
+sul,"Rua Doutor Pinto Ferraz, Vila Mariana, São Paulo Zona Sul, São Paulo",39.0,1.0,2000
+sul,"Rua Das Uvaias, Saúde, São Paulo Zona Sul, São Paulo",52.0,2.0,2500
+sul,"Avenida Doutor Altino Arantes, Vila Clementino, São Paulo Zona Sul, São Paulo",69.0,3.0,2150
+sul,"Rua Maracá, Vila Guarani (z Sul), São Paulo Zona Sul, São Paulo",68.0,2.0,2500
+sul,"Rua Doutor Renato Paes De Barros, Itaim Bibi, São Paulo Zona Sul, São Paulo",185.0,3.0,15000
+sul,"Rua Gomes De Carvalho, Vila Olímpia, São Paulo Zona Sul, São Paulo",30.0,1.0,2520
+sul,"Rua Três De Maio, Vila Clementino, São Paulo Zona Sul, São Paulo",72.0,2.0,2020
+sul,"Rua Leopoldo De Bulhões, Vila Clementino, São Paulo Zona Sul, São Paulo",57.0,2.0,3162
+sul,"Rua Itacoarati, Vila Nair, São Paulo Zona Sul, São Paulo",26.0,1.0,1750
+sul,"Rua Bagé, Vila Mariana, São Paulo Zona Sul, São Paulo",90.0,2.0,2300
+sul,"Avenida Doutor Lino De Moraes Leme, Campo Belo, São Paulo Zona Sul, São Paulo",65.0,2.0,1000
+sul,"Avenida Macuco, Moema, São Paulo Zona Sul, São Paulo",37.0,1.0,1600
+sul,"Avenida Macuco, Moema, São Paulo Zona Sul, São Paulo",37.0,1.0,1600
+sul,"Rua Pamplona, Jardim Paulista, São Paulo Zona Sul, São Paulo",320.0,2.0,6500
+sul,"Rua Padre Machado, Bosque Da Saúde, São Paulo Zona Sul, São Paulo",64.0,3.0,2200
+sul,"Rua Gaivota, Moema, São Paulo Zona Sul, São Paulo",300.0,5.0,10000
+sul,"Avenida Moreira Guimarães, Indianópolis, São Paulo Zona Sul, São Paulo",55.0,1.0,1300
+sul,"Rua Paulo Orozimbo, Cambuci, São Paulo Zona Sul, São Paulo",150.0,4.0,4000
+sul,"Avenida Chibarás, Moema, São Paulo Zona Sul, São Paulo",30.0,1.0,2319
+sul,"Rua Abílio Soares, Paraíso, São Paulo Zona Sul, São Paulo",124.0,2.0,3500
+sul,"Rua Vicente Leporace, Campo Belo, São Paulo Zona Sul, São Paulo",75.0,2.0,2400
+sul,"Rua Itatupã, Vila Andrade, São Paulo Zona Sul, São Paulo",83.0,2.0,3570
+sul,"Rua Sabino, Bosque Da Saúde, São Paulo Zona Sul, São Paulo",25.0,1.0,1250
+sul,"Avenida João Peixoto Viegas, Jardim Consórcio, São Paulo Zona Sul, São Paulo",114.0,3.0,4500
+sul,"Avenida Assaré, Jardim Sabará, São Paulo Zona Sul, São Paulo",115.0,2.0,2856
+sul,"Rua Pedro Morganti, Vila Mariana, São Paulo Zona Sul, São Paulo",69.0,2.0,2350
+sul,"Avenida Afonso Mariano Fagundes, Saúde, São Paulo Zona Sul, São Paulo",94.0,2.0,2373
+sul,"Rua Giácomo Cozzarelli, Vila Santa Teresa (zona Sul), São Paulo Zona Sul, São Paulo",49.0,2.0,1300
+sul,"Avenida Macuco, Moema, São Paulo Zona Sul, São Paulo",90.0,2.0,3500
+sul,"Rua Diogo Vaz, Cambuci, São Paulo Zona Sul, São Paulo",70.0,2.0,1500
+sul,"Rua Tibiriçá, Brooklin Paulista, São Paulo Zona Sul, São Paulo",109.0,2.0,1600
+sul,"Rua Antônio Pacheco Valente, Santo Amaro, São Paulo Zona Sul, São Paulo",138.0,3.0,10000
+sul,"Rua Fiandeiras, Vila Olímpia, São Paulo Zona Sul, São Paulo",81.0,2.0,5000
+sul,"Rua Palmares, Brooklin Paulista, São Paulo Zona Sul, São Paulo",196.0,3.0,4080
+sul,"Avenida Interlagos, Jardim Marajoara, São Paulo Zona Sul, São Paulo",65.0,2.0,2900
+sul,"Rua Abagiba, Saúde, São Paulo Zona Sul, São Paulo",52.0,2.0,2020
+sul,"Rua Leopoldo Couto De Magalhães Júnior, Itaim Bibi, São Paulo Zona Sul, São Paulo",50.0,1.0,2520
+sul,"Rua Salvador Iacona, Vila Santa Catarina, São Paulo Zona Sul, São Paulo",52.0,2.0,1600
+sul,"Rua Borges Lagoa, Vila Clementino, São Paulo Zona Sul, São Paulo",40.0,1.0,2520
+sul,"Rua Pascal, Campo Belo, São Paulo Zona Sul, São Paulo",380.0,3.0,15000
+sul,"Rua São Paulo Antigo, Real Parque, São Paulo Zona Sul, São Paulo",183.0,3.0,6000
+sul,"Rua José Benedito Salinas, Jardim Itapeva, São Paulo Zona Sul, São Paulo",80.0,3.0,2200
+sul,"Rua Antônio Gil, Vila Inglesa, São Paulo Zona Sul, São Paulo",170.0,2.0,2970
+sul,"Rua Bagé, Vila Mariana, São Paulo Zona Sul, São Paulo",137.0,3.0,4500
+sul,"Rua Peixoto Gomide, Jardim Paulista, São Paulo Zona Sul, São Paulo",45.0,1.0,1500
+sul,"Rua Dom Vilares, Vila Das Mercês, São Paulo Zona Sul, São Paulo",57.0,2.0,2600
+sul,"Rua Desembargador Aragão, Vila Mariana, São Paulo Zona Sul, São Paulo",40.0,1.0,3270
+sul,"Avenida Itaboraí, Bosque Da Saúde, São Paulo Zona Sul, São Paulo",45.0,1.0,1055
+sul,"Avenida Itaboraí, Bosque Da Saúde, São Paulo Zona Sul, São Paulo",69.0,2.0,2500
+sul,"Rua Miguel Yunes, Usina Piratininga, São Paulo Zona Sul, São Paulo",69.0,1.0,4000
+sul,"Rua Marcos Fernandes, Jardim Da Saúde, São Paulo Zona Sul, São Paulo",380.0,4.0,13500
+sul,"Rua Doutor Renato Paes De Barros, Itaim Bibi, São Paulo Zona Sul, São Paulo",50.0,1.0,2020
+sul,"Rua Batataes, Jardim Paulista, São Paulo Zona Sul, São Paulo",185.0,2.0,5500
+sul,"Alameda Franca, Jardim Paulista, São Paulo Zona Sul, São Paulo",72.0,2.0,5500
+sul,"Rua Iubatinga, Vila Andrade, São Paulo Zona Sul, São Paulo",301.0,4.0,6500
+sul,"Rua Camarujipe, Vila Constança, São Paulo Zona Sul, São Paulo",90.0,3.0,1320
+sul,"Rua Volta Redonda, Campo Belo, São Paulo Zona Sul, São Paulo",222.0,3.0,13000
+sul,"Rua Da Paz 1313, Chácara Santo Antônio, São Paulo Zona Sul, São Paulo",95.0,3.0,2856
+sul,"Rua Santa Justina, Vila Olímpia, São Paulo Zona Sul, São Paulo",60.0,2.0,3900
+sul,"Rua Doutor Chibata Miyakoshi, Paraíso Do Morumbi, São Paulo Zona Sul, São Paulo",44.0,1.0,3000
+sul,"Rua José Maria Lisboa, Jardim Paulista, São Paulo Zona Sul, São Paulo",224.0,3.0,14530
+sul,"Rua Do Estilo Barroco, Santo Amaro, São Paulo Zona Sul, São Paulo",245.0,4.0,5330
+sul,"Rua Nelson Gama De Oliveira, Vila Andrade, São Paulo Zona Sul, São Paulo",55.0,2.0,2400
+sul,"Rua Alfredo Jorel, Jardim Celeste, São Paulo Zona Sul, São Paulo",50.0,2.0,2000
+sul,"Rua Indiana, Brooklin Paulista, São Paulo Zona Sul, São Paulo",38.0,1.0,1996
+sul,"Rua Alexandre Dumas, Chácara Santo Antônio, São Paulo Zona Sul, São Paulo",137.0,2.0,2080
+sul,"Avenida Jurema, Indianópolis, São Paulo Zona Sul, São Paulo",44.0,1.0,2000
+sul,"Avenida Barro Branco, Vila Do Encontro, São Paulo Zona Sul, São Paulo",51.0,2.0,1320
+sul,"Rua Pereira Caldas, Jardim Da Glória, São Paulo Zona Sul, São Paulo",71.0,2.0,3264
+sul,"Rua Albertina Alves Jorge, Vila Cruzeiro, São Paulo Zona Sul, São Paulo",500.0,4.0,15000
+sul,"Rua Mirassol, Vila Clementino, São Paulo Zona Sul, São Paulo",190.0,4.0,3763
+sul,"Rua Moacir Guimarães, São João Climaco, São Paulo Zona Sul, São Paulo",83.0,2.0,1260
+sul,"Rua Coronel Luís Alves, Vila Mariana, São Paulo Zona Sul, São Paulo",775.0,3.0,10000
+sul,"Rua Francisco Justino De Azevedo, Aclimação, São Paulo Zona Sul, São Paulo",66.0,3.0,4080
+sul,"Rua São Benedito, Santo Amaro, São Paulo Zona Sul, São Paulo",188.0,3.0,2505
+sul,"Avenida Marginal Esquerda Anchieta, Vila Arapuã, São Paulo Zona Sul, São Paulo",61.0,3.0,1050
+sul,"Rua Casa Do Ator, Vila Olímpia, São Paulo Zona Sul, São Paulo",116.0,2.0,6000
+sul,"Rua Mercedes Salano Castineiras, Jardim Patente Novo, São Paulo Zona Sul, São Paulo",57.0,2.0,1260
+sul,"Rua Ingles De Sousa, Jardim Da Glória, São Paulo Zona Sul, São Paulo",86.0,3.0,3000
+sul,"Rua Nossa Senhora Da Saúde, Vila Das Mercês, São Paulo Zona Sul, São Paulo",69.0,2.0,1850
+sul,"Avenida Miguel Yunes, Usina Piratininga, São Paulo Zona Sul, São Paulo",70.0,3.0,3957
+sul,"Rua Alvorada, Vila Olímpia, São Paulo Zona Sul, São Paulo",156.0,3.0,14000
+sul,"Alameda Jau, Jardim Paulista, São Paulo Zona Sul, São Paulo",162.0,3.0,4966
+sul,"Alameda Dos Aicás, Indianópolis, São Paulo Zona Sul, São Paulo",94.0,3.0,4400
+sul,"Alameda Dos Aicás, Indianópolis, São Paulo Zona Sul, São Paulo",70.0,3.0,2000
+sul,"Rua Backer, Cambuci, São Paulo Zona Sul, São Paulo",110.0,3.0,2600
+sul,"Avenida Yervant Kissajikian, Vila Constança, São Paulo Zona Sul, São Paulo",54.0,2.0,1600
+sul,"Rua Frei Duarte Jorge De Mendonça, Vila Andrade, São Paulo Zona Sul, São Paulo",42.0,1.0,1800
+sul,"Rua Francisco José Da Silva, Vila Andrade, São Paulo Zona Sul, São Paulo",38.0,1.0,1400
+sul,"Rua Doutor Pinto Nazário, Jardim Vergueiro (sacomã), São Paulo Zona Sul, São Paulo",48.0,1.0,1155
+sul,"Rua Marília, Jardim Paulista, São Paulo Zona Sul, São Paulo",69.0,2.0,3800
+sul,"Alameda Dos Anapurus 1441, Indianópolis, São Paulo Zona Sul, São Paulo",80.0,2.0,3200
+sul,"Rua Fagundes Dias, Saúde, São Paulo Zona Sul, São Paulo",66.0,2.0,2000
+sul,"Rua Batataes, Jardim Paulista, São Paulo Zona Sul, São Paulo",54.0,1.0,5000
+sul,"Rua Das Fiandeiras, Vila Olímpia, São Paulo Zona Sul, São Paulo",65.0,2.0,3570
+sul,"Rua Pamplona, Jardim Paulista, São Paulo Zona Sul, São Paulo",98.0,2.0,4200
+sul,"Rua Abrahão Mussa, Jardim Patente Novo, São Paulo Zona Sul, São Paulo",70.0,1.0,1155
+sul,"Rua Abrahão Mussa, Jardim Patente Novo, São Paulo Zona Sul, São Paulo",70.0,1.0,1100
+sul,"Alameda Jaú, Jardim Paulista, São Paulo Zona Sul, São Paulo",140.0,2.0,8000
+sul,"Avenida Professor Francisco Morato, Vila Sônia, São Paulo Zona Sul, São Paulo",63.0,2.0,2600
+sul,"Rua Indiana, Brooklin Paulista, São Paulo Zona Sul, São Paulo",30.0,1.0,833
+sul,"Rua Coronel Luís Barroso, Santo Amaro, São Paulo Zona Sul, São Paulo",60.0,2.0,3650
+sul,"Rua Diogo Jácome, Vila Nova Conceição, São Paulo Zona Sul, São Paulo",52.0,1.0,4000
+sul,"Alameda Dos Maracatins, Indianópolis, São Paulo Zona Sul, São Paulo",44.0,1.0,5200
+sul,"Avenida Yervant Kissajikian, Jardim Marajoara, São Paulo Zona Sul, São Paulo",50.0,2.0,1700
+sul,"Alameda Dos Anapurus, Indianópolis, São Paulo Zona Sul, São Paulo",90.0,2.0,5000
+sul,"Avenida Doutor Altino Arantes, Vila Clementino, São Paulo Zona Sul, São Paulo",60.0,2.0,1976
+sul,"Avenida Eulália, Vila Fachini, São Paulo Zona Sul, São Paulo",55.0,1.0,990
+sul,"Rua Casa Do Ator, Vila Olímpia, São Paulo Zona Sul, São Paulo",76.0,2.0,3876
+sul,"Rua Humberto I, Vila Mariana, São Paulo Zona Sul, São Paulo",21.0,1.0,2704
+sul,"Rua Padre José De Anchieta, Santo Amaro, São Paulo Zona Sul, São Paulo",90.0,2.0,4360
+sul,"Rua Edson, Campo Belo, São Paulo Zona Sul, São Paulo",49.0,1.0,2000
+sul,"Rua 0, Vila Olímpia, São Paulo Zona Sul, São Paulo",45.0,1.0,3600
+sul,"Rua Cantori, Vila Andrade, São Paulo Zona Sul, São Paulo",41.0,2.0,1470
+sul,"Rua Doutor Guilherme Bannitz, Itaim Bibi, São Paulo Zona Sul, São Paulo",40.0,1.0,3600
+sul,"Rua Guatapara, Vila Guarani (z Sul), São Paulo Zona Sul, São Paulo",86.0,2.0,2080
+sul,"Alameda Jurupis, Indianópolis, São Paulo Zona Sul, São Paulo",80.0,2.0,5500
+sul,"Rua Boa Vizinhança, Vila Brasílio Machado, São Paulo Zona Sul, São Paulo",130.0,2.0,2900
+sul,"Avenida Jurucê, Indianópolis, São Paulo Zona Sul, São Paulo",70.0,2.0,3000
+sul,"Rua Viaza, Jardim Aeroporto, São Paulo Zona Sul, São Paulo",45.0,1.0,2250
+sul,"Rua Clodomiro Amazonas, Vila Olímpia, São Paulo Zona Sul, São Paulo",90.0,2.0,3000
+sul,"Rua Demóstenes, Campo Belo, São Paulo Zona Sul, São Paulo",46.0,1.0,2400
+sul,"Rua Alvorada, Vila Olímpia, São Paulo Zona Sul, São Paulo",60.0,2.0,3980
+sul,"Rua Nelson Gama De Oliveira, Vila Andrade, São Paulo Zona Sul, São Paulo",100.0,2.0,3000
+sul,"Rua Guaratuba, Vila Guarani (z Sul), São Paulo Zona Sul, São Paulo",78.0,3.0,2000
+sul,"Rua Geórgia, Brooklin Paulista, São Paulo Zona Sul, São Paulo",72.0,2.0,2080
+sul,"Rua Padre Guido Del Toro, Chácara Inglesa, São Paulo Zona Sul, São Paulo",108.0,3.0,1800
+sul,"Avenida Juriti, Vila Uberabinha, São Paulo Zona Sul, São Paulo",130.0,3.0,6500
+sul,"Rua Tapes, Jardim Aeroporto, São Paulo Zona Sul, São Paulo",170.0,3.0,2700
+sul,"Rua Conde De Porto Alegre, Campo Belo, São Paulo Zona Sul, São Paulo",233.0,3.0,15000
+sul,"Rua Luís Correia De Melo, Vila Cruzeiro, São Paulo Zona Sul, São Paulo",95.0,1.0,5200
+sul,"Rua Tabapuã, Itaim Bibi, São Paulo Zona Sul, São Paulo",55.0,2.0,2392
+sul,"Rua Mauro, Saúde, São Paulo Zona Sul, São Paulo",51.0,2.0,1872
+sul,"Avenida Miguel Estefno, Saúde, São Paulo Zona Sul, São Paulo",57.0,2.0,3000
+sul,"Rua Doutor Guilherme Bannitz, Itaim Bibi, São Paulo Zona Sul, São Paulo",101.0,2.0,4000
+sul,"Rua Doutor João Clímaco Pereira, Itaim Bibi, São Paulo Zona Sul, São Paulo",51.0,1.0,3060
+sul,"Avenida Leonardo Da Vinci, Vila Guarani (z Sul), São Paulo Zona Sul, São Paulo",55.0,2.0,1750
+sul,"Rua Rosa Gaeta Lazara, Brooklin Paulista, São Paulo Zona Sul, São Paulo",70.0,2.0,6000
+sul,"Avenida Moema, Moema, São Paulo Zona Sul, São Paulo",75.0,1.0,5500
+sul,"Rua Vapabussu, Jardim Aeroporto, São Paulo Zona Sul, São Paulo",73.0,2.0,4000
+sul,"Rua Constantino De Sousa, Campo Belo, São Paulo Zona Sul, São Paulo",43.0,1.0,3200
+sul,"Rua Henri Dunant, Santo Amaro, São Paulo Zona Sul, São Paulo",55.0,1.0,3900
+sul,"Alameda Dos Anapurus, Indianópolis, São Paulo Zona Sul, São Paulo",65.0,1.0,2392
+sul,"Rua Das Flechas, Vila Santa Catarina, São Paulo Zona Sul, São Paulo",47.0,2.0,3700
+sul,"Avenida Santo Albano, Vila Vera, São Paulo Zona Sul, São Paulo",80.0,1.0,1400
+sul,"Avenida Doutor Mário Vilas Boas Rodrigues, Jardim Dom Bosco, São Paulo Zona Sul, São Paulo",65.0,2.0,2700
+sul,"Rua Tutóia, Vila Mariana, São Paulo Zona Sul, São Paulo",74.0,2.0,2500
+sul,"Rua Tuim, Vila Uberabinha, São Paulo Zona Sul, São Paulo",155.0,3.0,11000
+sul,"Rua Lacedemônia, Jardim Brasil (zona Sul), São Paulo Zona Sul, São Paulo",70.0,2.0,2500
+sul,"Rua Professor Tamandare Toledo, Itaim Bibi, São Paulo Zona Sul, São Paulo",47.0,1.0,3060
+sul,"Rua Danaides, Vila Anhangüera, São Paulo Zona Sul, São Paulo",65.0,2.0,2288
+sul,"Avenida Vereador José Diniz, Santo Amaro, São Paulo Zona Sul, São Paulo",35.0,1.0,2700
+sul,"Rua Pamplona, Jardim Paulista, São Paulo Zona Sul, São Paulo",60.0,1.0,2800
+sul,"Rua Manoel Mateus, Vila Firmiano Pinto, São Paulo Zona Sul, São Paulo",16.0,1.0,1497
+sul,"Alameda Fernão Cardim, Jardim Paulista, São Paulo Zona Sul, São Paulo",180.0,3.0,10000
+sul,"Rua José Maria Lisboa, Jardim Paulista, São Paulo Zona Sul, São Paulo",115.0,3.0,5550
+sul,"Alameda Lorena, Jardim Paulista, São Paulo Zona Sul, São Paulo",42.0,1.0,3400
+sul,"Alameda Anapurus, Indianópolis, São Paulo Zona Sul, São Paulo",128.0,3.0,3360
+sul,"Rua Professor José Leite E Oiticica, Vila Gertrudes, São Paulo Zona Sul, São Paulo",50.0,1.0,2460
+sul,"Rua Belmiro De Almeida, Bosque Da Saúde, São Paulo Zona Sul, São Paulo",110.0,3.0,3400
+sul,"Avenida Cupecê, Jardim Prudência, São Paulo Zona Sul, São Paulo",70.0,2.0,2800
+sul,"Rua Visconde De Inhaúma, Vila Da Saúde, São Paulo Zona Sul, São Paulo",35.0,1.0,2850
+sul,"Rua Guararapes, Brooklin Paulista, São Paulo Zona Sul, São Paulo",110.0,2.0,6000
+sul,"Rua Albuquerque Sousa Muniz, Vila Alexandria, São Paulo Zona Sul, São Paulo",60.0,3.0,1700
+sul,"Rua José Ramon Urtiza, Vila Andrade, São Paulo Zona Sul, São Paulo",96.0,2.0,2400
+sul,"Rua Aracuípe, Jardim Prudência, São Paulo Zona Sul, São Paulo",58.0,1.0,2400
+sul,"Rua Alvorada, Vila Olímpia, São Paulo Zona Sul, São Paulo",105.0,2.0,4500
+sul,"Rua Jandiroba, Jardim Oriental, São Paulo Zona Sul, São Paulo",45.0,1.0,945
+sul,"Rua Luís Correia De Melo, Vila Cruzeiro, São Paulo Zona Sul, São Paulo",39.0,1.0,2100
+sul,"Rua Barão Do Triunfo, Brooklin Paulista, São Paulo Zona Sul, São Paulo",108.0,3.0,3570
+sul,"Rua Diogo Jácome, Vila Nova Conceição, São Paulo Zona Sul, São Paulo",50.0,1.0,3500
+sul,"Rua Luís Correia De Melo, Vila Cruzeiro, São Paulo Zona Sul, São Paulo",62.0,2.0,3350
+sul,"Itu, Jardim Paulista, São Paulo Zona Sul, São Paulo",90.0,2.0,4050
+sul,"Rua Henri Dunant, Santo Amaro, São Paulo Zona Sul, São Paulo",33.0,1.0,3060
+sul,"Rua Teixeira Da Silva, Paraíso, São Paulo Zona Sul, São Paulo",140.0,3.0,3500
+sul,"Avenida Jurema, Indianópolis, São Paulo Zona Sul, São Paulo",130.0,3.0,4300
+sul,"Rua Rio Grande, Vila Mariana, São Paulo Zona Sul, São Paulo",94.0,3.0,3700
+sul,"Rua José Benedito Salinas, Jardim Itapeva, São Paulo Zona Sul, São Paulo",67.0,2.0,2000
+sul,"Rua Tutóia, Vila Mariana, São Paulo Zona Sul, São Paulo",68.0,2.0,3654
+sul,"Rua Eça De Queiroz, Vila Mariana, São Paulo Zona Sul, São Paulo",89.0,3.0,3200
+sul,"Rua Ernest Renan, Paraisópolis, São Paulo Zona Sul, São Paulo",120.0,2.0,2200
+sul,"Rua Itapiru, Saúde, São Paulo Zona Sul, São Paulo",70.0,2.0,3000
+sul,"Rua Domingos Augusto Setti, Jardim Vila Mariana, São Paulo Zona Sul, São Paulo",260.0,4.0,6000
+sul,"Rua Paraguai, Jardim Paulista, São Paulo Zona Sul, São Paulo",90.0,2.0,6000
+sul,"Rua Pamplona, Jardim Paulista, São Paulo Zona Sul, São Paulo",50.0,1.0,2400
+sul,"Avenida Portugal, Brooklin Paulista, São Paulo Zona Sul, São Paulo",59.0,1.0,4080
+sul,"Rua José Estevão De Magalhães, Vila Parque Jabaquara, São Paulo Zona Sul, São Paulo",59.0,2.0,1695
+sul,"Rua Cosme Fonte Lira, Cupecê, São Paulo Zona Sul, São Paulo",180.0,4.0,4080
+sul,"Rua Dona Eponina Afonseca, Granja Julieta, São Paulo Zona Sul, São Paulo",250.0,3.0,7500
+sul,"Rua Professor Atílio Innocenti, Vila Nova Conceição, São Paulo Zona Sul, São Paulo",43.0,1.0,3000
+sul,"Rua Nova York, Brooklin Paulista, São Paulo Zona Sul, São Paulo",76.0,3.0,3960
+sul,"Rua Oliveira Melo, Vila São José, São Paulo Zona Sul, São Paulo",140.0,2.0,1800
+sul,"Rua Alvorada, Vila Olímpia, São Paulo Zona Sul, São Paulo",54.0,2.0,3264
+sul,"Rua Antônio Tavares, Cambuci, São Paulo Zona Sul, São Paulo",95.0,2.0,2805
+sul,"Rua Do Lavapés, Cambuci, São Paulo Zona Sul, São Paulo",35.0,1.0,1700
+sul,"Avenida Santo Amaro, Brooklin Paulista, São Paulo Zona Sul, São Paulo",100.0,3.0,3060
+sul,"Rua Indiana, Brooklin Paulista, São Paulo Zona Sul, São Paulo",130.0,2.0,11800
+sul,"Rua Jacques Félix, Vila Nova Conceição, São Paulo Zona Sul, São Paulo",65.0,1.0,3876
+sul,"Alameda Lorena, Jardim Paulista, São Paulo Zona Sul, São Paulo",129.0,2.0,8000
+sul,"Rua Carlos Petit, Vila Mariana, São Paulo Zona Sul, São Paulo",200.0,4.0,3314
+sul,"Rua Bandeira Paulista, Itaim Bibi, São Paulo Zona Sul, São Paulo",102.0,3.0,4150
+sul,"Rua Jesuíno Arruda, Itaim Bibi, São Paulo Zona Sul, São Paulo",74.0,1.0,4080
+sul,"Alameda Dos Anapurus, Indianópolis, São Paulo Zona Sul, São Paulo",90.0,3.0,4000
+sul,"Avenida Professor Rubens Gomes De Souza, Jardim Cordeiro, São Paulo Zona Sul, São Paulo",150.0,3.0,3600
+sul,"Alameda Jaú, Jardim Paulista, São Paulo Zona Sul, São Paulo",45.0,1.0,2700
+sul,"Rua Francisco Malafáia, Cupecê, São Paulo Zona Sul, São Paulo",179.0,3.0,3080
+sul,"Avenida Jandira, Indianópolis, São Paulo Zona Sul, São Paulo",36.0,1.0,2300
+sul,"Rua Nossa Senhora Do Socorro, Socorro, São Paulo Zona Sul, São Paulo",80.0,2.0,2062
+sul,"Alameda Anapurus, Indianópolis, São Paulo Zona Sul, São Paulo",65.0,1.0,2350
+sul,"Rua Do Rocio, Vila Olímpia, São Paulo Zona Sul, São Paulo",65.0,2.0,3500
+sul,"Rua Juréia, Chácara Inglesa, São Paulo Zona Sul, São Paulo",65.0,2.0,1800
+sul,"Avenida São Paulo Antigo, Real Parque, São Paulo Zona Sul, São Paulo",186.0,3.0,6800
+sul,"Rua Breno Ferraz Do Amaral, Vila Firmiano Pinto, São Paulo Zona Sul, São Paulo",80.0,3.0,3000
+sul,"Rua Tenente Negrão, Itaim Bibi, São Paulo Zona Sul, São Paulo",45.0,1.0,3350
+sul,"Avenida Senador Teotônio Vilela, Cidade Dutra, São Paulo Zona Sul, São Paulo",70.0,2.0,1820
+sul,"Rua Bento Branco De Andrade Filho, Jardim Dom Bosco, São Paulo Zona Sul, São Paulo",92.0,3.0,3650
+sul,"Rua Antônio De Macedo Soares, Campo Belo, São Paulo Zona Sul, São Paulo",140.0,3.0,4500
+sul,"Rua Juvenal Viêira Da Silva, Jardim Patente Novo, São Paulo Zona Sul, São Paulo",80.0,3.0,2400
+sul,"Rua Batista Caetano, Aclimação, São Paulo Zona Sul, São Paulo",150.0,3.0,9000
+sul,"Rua Nossa Senhora Das Mercês, Vila Das Mercês, São Paulo Zona Sul, São Paulo",63.0,2.0,1870
+sul,"Rua Delegado Moraes Novaes, Vila Andrade, São Paulo Zona Sul, São Paulo",78.0,3.0,2900
+sul,"Avenida Dos Ourives, Jardim São Savério, São Paulo Zona Sul, São Paulo",62.0,3.0,2020
+sul,"Rua Sócrates, Vila Sofia, São Paulo Zona Sul, São Paulo",64.0,3.0,2420
+sul,"Avenida Brigadeiro Luís Antônio, Jardim Paulista, São Paulo Zona Sul, São Paulo",50.0,1.0,1768
+sul,"Avenida Açocê, Indianópolis, São Paulo Zona Sul, São Paulo",200.0,3.0,7200
+sul,"Avenida Jacutinga, Indianópolis, São Paulo Zona Sul, São Paulo",60.0,2.0,3170
+sul,"Rua Silva Bueno, Ipiranga, São Paulo Zona Sul, São Paulo",72.0,2.0,1750
+sul,"Alameda Itu, Jardim Paulista, São Paulo Zona Sul, São Paulo",105.0,1.0,8100
+sul,"Alameda Campinas, Jardim Paulista, São Paulo Zona Sul, São Paulo",36.0,1.0,2600
+sul,"R. Nelson Gama De Oliveira - Vila Andrade, São Paulo - Sp, 05734-150, Brasil, Vila Andrade, São Paulo Zona Sul, São Paulo",145.0,3.0,3900
+sul,"Visconde Da Luz, Vila Cruzeiro, São Paulo Zona Sul, São Paulo",67.0,3.0,3600
+sul,"Rua Iuru, Vila Andrade, São Paulo Zona Sul, São Paulo",261.0,5.0,14750
+sul,"Rua Leonardo Cerveira Varandas, Paraíso Do Morumbi, São Paulo Zona Sul, São Paulo",110.0,3.0,3000
+sul,"Rua Doutor Nicolau De Sousa Queirós, Vila Mariana, São Paulo Zona Sul, São Paulo",140.0,3.0,4200
+sul,"Rua Maracá, Vila Guarani (z Sul), São Paulo Zona Sul, São Paulo",47.0,2.0,1610
+sul,"Avenida Santo Amaro, Brooklin Paulista, São Paulo Zona Sul, São Paulo",36.0,1.0,2250
+sul,"Rua Professor Monjardino, Vila Sônia, São Paulo Zona Sul, São Paulo",104.0,3.0,4600
+sul,"Rua José De Camargo, Vila Mariana, São Paulo Zona Sul, São Paulo",150.0,2.0,6000
+sul,"Alameda Dos Jurupis, Indianópolis, São Paulo Zona Sul, São Paulo",120.0,2.0,9000
+sul,"Alameda Casa Branca, Jardim Paulista, São Paulo Zona Sul, São Paulo",103.0,3.0,11500
+sul,"Rua José Benedito Salinas, Jardim Itapeva, São Paulo Zona Sul, São Paulo",80.0,3.0,2200
+sul,"Rua Doutor Paschoal Imperatriz, Vila Gertrudes, São Paulo Zona Sul, São Paulo",55.0,1.0,3400
+sul,"Rua Visconde De Taunay, Vila Cruzeiro, São Paulo Zona Sul, São Paulo",172.0,3.0,4000
+sul,"Rua Luís Correia De Melo, Vila Cruzeiro, São Paulo Zona Sul, São Paulo",57.0,1.0,3900
+sul,"Rua Desembargador Aragão, Vila Mariana, São Paulo Zona Sul, São Paulo",64.0,2.0,4200
+sul,"Alameda Lorena, Jardim Paulista, São Paulo Zona Sul, São Paulo",35.0,1.0,3000
+sul,"Rua Coronel Francisco De Oliveira Simões, Paraíso Do Morumbi, São Paulo Zona Sul, São Paulo",67.0,3.0,1955
+sul,"Rua Coronel Oscar Porto, Paraíso, São Paulo Zona Sul, São Paulo",94.0,3.0,4900
+sul,"Alameda Lorena, Jardim Paulista, São Paulo Zona Sul, São Paulo",130.0,2.0,10500
+sul,"Rua Luís De França Júnior, Vila Nova Caledônia, São Paulo Zona Sul, São Paulo",290.0,5.0,13000
+sul,"Avenida Jules Rimet, Jardim Leonor, São Paulo Zona Sul, São Paulo",170.0,4.0,3270
+sul,"Rua Visconde De Guaratiba, Vila Firmiano Pinto, São Paulo Zona Sul, São Paulo",140.0,2.0,2020
+sul,"Rua Apeninos, Aclimação, São Paulo Zona Sul, São Paulo",30.0,1.0,2500
+sul,"Avenida Macuco 240, Indianópolis, São Paulo Zona Sul, São Paulo",108.0,3.0,3500
+sul,"Rua Bertioga, Chácara Inglesa, São Paulo Zona Sul, São Paulo",37.0,2.0,2120
+sul,"Largo Senador Raul Cardoso, Vila Clementino, São Paulo Zona Sul, São Paulo",350.0,3.0,7000
+sul,"Rua Brasília, Itaim Bibi, São Paulo Zona Sul, São Paulo",110.0,3.0,4500
+sul,"Rua Vigário Albernaz, Vila Gumercindo, São Paulo Zona Sul, São Paulo",150.0,2.0,4000
+sul,"Rua Conde De Itu, Jardim Santo Amaro, São Paulo Zona Sul, São Paulo",80.0,2.0,3460
+sul,"Rua Iraúna, Jardim Novo Mundo, São Paulo Zona Sul, São Paulo",468.0,4.0,15000
+sul,"Rua Dos Tapes, Cambuci, São Paulo Zona Sul, São Paulo",69.0,2.0,2200
+sul,"Rua Urussuí, Itaim Bibi, São Paulo Zona Sul, São Paulo",100.0,3.0,4200
+sul,"Rua Joel Carlos Borges, Chácara Itaim, São Paulo Zona Sul, São Paulo",50.0,1.0,2260
+sul,"Rua Vergueiro, Vila Firmiano Pinto, São Paulo Zona Sul, São Paulo",47.0,2.0,1800
+sul,"Rua Maria Bucalem Haddad, Vila Firmiano Pinto, São Paulo Zona Sul, São Paulo",65.0,3.0,1850
+sul,"Rua Gaspar Fernandes, Vila Monumento, São Paulo Zona Sul, São Paulo",69.0,3.0,2000
+sul,"Rua Indiana, Brooklin Paulista, São Paulo Zona Sul, São Paulo",105.0,3.0,4500
+sul,"Rua Oscar Pereira Da Silva, Itaim Bibi, São Paulo Zona Sul, São Paulo",240.0,3.0,14530
+sul,"Rua Pascal, Campo Belo, São Paulo Zona Sul, São Paulo",60.0,2.0,4100
+sul,"Avenida Barão De Campos Gerais, Real Parque, São Paulo Zona Sul, São Paulo",115.0,3.0,3000
+sul,"Estrada Das Lágrimas, São João Climaco, São Paulo Zona Sul, São Paulo",50.0,3.0,1920
+sul,"Rua Universal, Cantinho Do Céu, São Paulo Zona Sul, São Paulo",81.0,2.0,1522
+sul,"Rua Bagé, Vila Mariana, São Paulo Zona Sul, São Paulo",78.0,2.0,3960
+sul,"Rua Doutor Ivo Define Frasca, Vila Olímpia, São Paulo Zona Sul, São Paulo",100.0,2.0,4500
+sul,"Avenida Itaboraí, Bosque Da Saúde, São Paulo Zona Sul, São Paulo",68.0,2.0,2320
+sul,"Avenida Fagundes Filho, Vila Monte Alegre, São Paulo Zona Sul, São Paulo",52.0,2.0,2320
+sul,"Rua Pedroso Alvarenga, Itaim Bibi, São Paulo Zona Sul, São Paulo",38.0,1.0,2970
+sul,"Avenida Itaboraí, Bosque Da Saúde, São Paulo Zona Sul, São Paulo",65.0,2.0,2900
+sul,"Rua Peixoto Gomide, Jardim Paulista, São Paulo Zona Sul, São Paulo",110.0,3.0,2750
+sul,"Rua Américo Alves Pereira Filho, Morumbi, São Paulo Zona Sul, São Paulo",225.0,3.0,6340
+sul,"Avenida Pedro Bueno, Jabaquara, São Paulo Zona Sul, São Paulo",180.0,4.0,3170
+sul,"Rua Vieira De Morais, Campo Belo, São Paulo Zona Sul, São Paulo",65.0,2.0,3170
+sul,"Rua Heitor Peixoto, Cambuci, São Paulo Zona Sul, São Paulo",70.0,2.0,5000
+sul,"Rua José Maria Lisboa, Jardim Paulista, São Paulo Zona Sul, São Paulo",240.0,3.0,10000
+sul,"Rua Abílio Soares, Paraíso, São Paulo Zona Sul, São Paulo",71.0,2.0,7000
+sul,"Rua Batataes, Jardim Paulista, São Paulo Zona Sul, São Paulo",60.0,2.0,4200
+sul,"Dona Ana Nery 569, Cambuci, São Paulo Zona Sul, São Paulo",28.0,1.0,1100
+sul,"Rua Dona Ana Nery 569, Cambuci, São Paulo Zona Sul, São Paulo",100.0,3.0,2000
+leste,"Rua Acariabu 38, Vila Nova York, São Paulo Zona Leste, São Paulo",100.0,3.0,1600
+leste,"Rua Maciel Filho, Jardim Danfer, São Paulo Zona Leste, São Paulo",35.0,1.0,700
+leste,"Rua Manuel De Mattos Godinho, Jardim Matarazzo, São Paulo Zona Leste, São Paulo",60.0,2.0,800
+leste,"Rua Ibitirama, Vila Prudente, São Paulo Zona Leste, São Paulo",70.0,2.0,1300
+leste,"Rua Condado Do Norte, Jardim Fernandes, São Paulo Zona Leste, São Paulo",27.0,1.0,700
+leste,"Vila Ema, São Paulo Zona Leste, São Paulo",44.0,2.0,1300
+leste,"Cidade Patriarca, São Paulo Zona Leste, São Paulo",46.0,2.0,1350
+leste,"Rua São Diogo, Vila Araguaia, São Paulo Zona Leste, São Paulo",72.0,2.0,1730
+leste,"Moóca, São Paulo Zona Leste, São Paulo",50.0,2.0,1400
+leste,"Alto Da Mooca, São Paulo Zona Leste, São Paulo",50.0,,1650
+leste,"Parque Da Vila Prudente, São Paulo Zona Leste, São Paulo",100.0,3.0,2900
+leste,"Moóca, São Paulo Zona Leste, São Paulo",78.0,3.0,2400
+leste,"Moóca, São Paulo Zona Leste, São Paulo",315.0,,12000
+leste,"Rua Dentista Barreto,
+                313, Vila Carrão, São Paulo Zona Leste, São Paulo",350.0,,9000
+leste,"Rua Doutor João Gualberto De Oliveira, Vila Santana, São Paulo Zona Leste, São Paulo",50.0,2.0,1050
+leste,"Moóca, São Paulo Zona Leste, São Paulo",127.0,3.0,3000
+leste,"Vila Bertioga, São Paulo Zona Leste, São Paulo",85.0,3.0,2500
+leste,"Rua Demerval Da Fonseca,
+                161, Jardim Santa Terezinha (zona Leste), São Paulo Zona Leste, São Paulo",55.0,2.0,1100
+leste,"Rua Crubixas, Vila Araguaia, São Paulo Zona Leste, São Paulo",65.0,3.0,1200
+leste,"Parque Da Mooca, São Paulo Zona Leste, São Paulo",750.0,,15000
+leste,"Avenida São Miguel, Vila Norma, São Paulo Zona Leste, São Paulo",883.0,,8000
+leste,"Rua Isabel, Vila Esperança, São Paulo Zona Leste, São Paulo",68.0,3.0,1400
+leste,"Vila Moreira, São Paulo Zona Leste, São Paulo",,2.0,1800
+leste,"Rua Tijuco Preto,
+                744, Tatuapé, São Paulo Zona Leste, São Paulo",200.0,,20000
+leste,"Avenida Dedo De Deus, Vila Formosa, São Paulo Zona Leste, São Paulo",33.0,1.0,1450
+leste,"Vila Gomes Cardim, São Paulo Zona Leste, São Paulo",50.0,2.0,2100
+leste,"Vila Canero, São Paulo Zona Leste, São Paulo",30.0,,750
+leste,"Rua Apaúra, Vila Silvia, São Paulo Zona Leste, São Paulo",39.0,2.0,1000
+leste,"Travessa Maria Pinto Labiapari, Vila Verde, São Paulo Zona Leste, São Paulo",40.0,1.0,750
+leste,"Vila Cláudia, São Paulo Zona Leste, São Paulo",24.0,,900
+leste,"Alto Da Mooca, São Paulo Zona Leste, São Paulo",75.0,2.0,1700
+leste,"Rua Da Mooca, Moóca, São Paulo Zona Leste, São Paulo",18.0,1.0,890
+leste,"Rua Alcides Prado, Vila Euthalia, São Paulo Zona Leste, São Paulo",40.0,1.0,850
+leste,"Rua Tijuco Preto, 1324, Tatuapé, São Paulo Zona Leste, São Paulo",250.0,,5500
+leste,"Penha De Franca, São Paulo Zona Leste, São Paulo",308.0,,5500
+leste,"Rua Doutor Joaquim Augusto De Camargo, Parque Boturussu, São Paulo Zona Leste, São Paulo",40.0,1.0,600
+leste,"Rua Cantagalo   , 74, Tatuapé, São Paulo Zona Leste, São Paulo",100.0,,5500
+leste,"Rua Da Mooca, Moóca, São Paulo Zona Leste, São Paulo",70.0,2.0,1350
+leste,"Rua Pretória, Vila Formosa, São Paulo Zona Leste, São Paulo",69.0,3.0,1310
+leste,"Jardim Anália Franco, São Paulo Zona Leste, São Paulo",200.0,3.0,8000
+leste,"Rua Soriano De Sousa, Tatuapé, São Paulo Zona Leste, São Paulo",30.0,1.0,1720
+leste,"Rua Antônio José Henriques, Vila Paranaguá, São Paulo Zona Leste, São Paulo",35.0,1.0,600
+leste,"Rua Coronel Marques Santiago, Vila Tolstoi, São Paulo Zona Leste, São Paulo",35.0,1.0,820
+leste,"Rua Doutor João Joaquim Gouvêia, Parque Boturussu, São Paulo Zona Leste, São Paulo",60.0,1.0,900
+leste,"Rua Ibitirama, Vila Prudente, São Paulo Zona Leste, São Paulo",55.0,2.0,1900
+leste,"Rua Augusto Carlos Bauman, Itaquera, São Paulo Zona Leste, São Paulo",41.0,2.0,1050
+leste,"Rua Da Mooca, Moóca, São Paulo Zona Leste, São Paulo",20.0,1.0,1290
+leste,"Rua Professor Brito Machado, Itaquera, São Paulo Zona Leste, São Paulo",68.0,3.0,1310
+leste,"Rua Canuto Saraiva, Moóca, São Paulo Zona Leste, São Paulo",63.0,2.0,1820
+leste,"Rua Doutor Raul Da Rocha Medeiros, Tatuapé, São Paulo Zona Leste, São Paulo",85.0,2.0,1560
+leste,"Rua João Lopes De Lima, Jardim Sapopemba, São Paulo Zona Leste, São Paulo",80.0,2.0,980
+leste,"Rua Matias João Tavares, Vila Caxambu, São Paulo Zona Leste, São Paulo",42.0,1.0,750
+leste,"Avenida Montemagno, Vila Formosa, São Paulo Zona Leste, São Paulo",124.0,3.0,7000
+leste,"Rua Maracanã Guaçu, Jardim São Francisco (zona Leste), São Paulo Zona Leste, São Paulo",48.0,2.0,1000
+leste,"Rua Ibitirama, Vila Prudente, São Paulo Zona Leste, São Paulo",53.0,2.0,1920
+leste,"Rua Dom Aquino Correia, Parque São Jorge, São Paulo Zona Leste, São Paulo",35.0,1.0,1000
+leste,"Travessa Maria Pinto Labiapari, Vila Verde, São Paulo Zona Leste, São Paulo",100.0,2.0,1200
+leste,"Rua Amaro Bezerra Cavalcanti, Vila Matilde, São Paulo Zona Leste, São Paulo",73.0,3.0,2500
+leste,"Avenida Celso Garcia, Tatuapé, São Paulo Zona Leste, São Paulo",65.0,3.0,2486
+leste,"Rua Celso De Azevedo Marques, Parque Da Mooca, São Paulo Zona Leste, São Paulo",125.0,3.0,3000
+leste,"Rua Teixeira De Melo, Tatuapé, São Paulo Zona Leste, São Paulo",70.0,3.0,2500
+leste,"Rua Do Acre, Vila Bertioga, São Paulo Zona Leste, São Paulo",49.0,1.0,1600
+leste,"Avenida Vila Ema, Vila Ema, São Paulo Zona Leste, São Paulo",50.0,2.0,1300
+leste,"Rua Dona Vitória Speers, Vila Formosa, São Paulo Zona Leste, São Paulo",22.0,1.0,870
+leste,"Rua Salvador Mastropietro, Vila Prudente, São Paulo Zona Leste, São Paulo",77.0,2.0,1872
+leste,"Rua Rupiara, Vila Nova Manchester, São Paulo Zona Leste, São Paulo",100.0,2.0,1600
+leste,"Rua Henrique Casela, Jardim América Da Penha, São Paulo Zona Leste, São Paulo",47.0,2.0,1500
+leste,"Rua Javari, Moóca, São Paulo Zona Leste, São Paulo",54.0,1.0,1100
+leste,"Rua Engenheiro Guilherme Cristiano Frender, Vila Antonieta, São Paulo Zona Leste, São Paulo",68.0,3.0,1470
+leste,"Rua Martins Carrilho, Vila Oratório, São Paulo Zona Leste, São Paulo",180.0,3.0,5000
+leste,"Rua Flor Do Olimpo, Vila Jacuí, São Paulo Zona Leste, São Paulo",70.0,2.0,1220
+leste,"Rua Paranatama, Itaquera, São Paulo Zona Leste, São Paulo",165.0,4.0,2950
+leste,"Rua Costeira, Jardim Arize, São Paulo Zona Leste, São Paulo",46.0,1.0,900
+leste,"Rua Bernardo Vieira, Vila Laís, São Paulo Zona Leste, São Paulo",90.0,2.0,1950
+leste,"Rua Tocandira, Vila Regente Feijó, São Paulo Zona Leste, São Paulo",46.0,1.0,770
+leste,"Rua Ajara, Maranhão, São Paulo Zona Leste, São Paulo",30.0,1.0,1100
+leste,"Rua Dos Financeiros, Vila Bancária, São Paulo Zona Leste, São Paulo",65.0,2.0,2500
+leste,"Rua Amarais, Vila Carrão, São Paulo Zona Leste, São Paulo",40.0,1.0,1300
+leste,"Rua Manuel Sequeira E Sá, Jardim Independencia, São Paulo Zona Leste, São Paulo",76.0,2.0,1400
+leste,"Rua Marechal Barbacena, Vila Regente Feijó, São Paulo Zona Leste, São Paulo",126.0,3.0,1872
+leste,"Rua Costa Barros, Sítio Pinheirinho, São Paulo Zona Leste, São Paulo",44.0,2.0,1500
+leste,"Rua Tabatinguera, Cidade Tiradentes, São Paulo Zona Leste, São Paulo",30.0,1.0,1170
+leste,"Rua Cristóvão De Figueiredo, Jardim Belém, São Paulo Zona Leste, São Paulo",120.0,2.0,1500
+leste,"Rua Francisco Coimbra, Penha De Franca, São Paulo Zona Leste, São Paulo",73.0,2.0,1800
+leste,"Rua Engenheiro Guilherme Cristiano Frender, Vila Antonieta, São Paulo Zona Leste, São Paulo",49.0,2.0,1100
+leste,"Rua Serra De Juréa, Cidade Mãe Do Ceu, São Paulo Zona Leste, São Paulo",30.0,1.0,1800
+leste,"Rua José Macedo, Vila Macedópolis, São Paulo Zona Leste, São Paulo",30.0,1.0,945
+leste,"Rua Jarinu, Cidade Mãe Do Ceu, São Paulo Zona Leste, São Paulo",32.0,1.0,1500
+leste,"Rua Azevedo Soares, Vila Gomes Cardim, São Paulo Zona Leste, São Paulo",84.0,3.0,2200
+leste,"Rua São Diogo, Vila Araguaia, São Paulo Zona Leste, São Paulo",72.0,2.0,1750
+leste,"Rua Ibirajuba, Vila Silvia, São Paulo Zona Leste, São Paulo",50.0,2.0,1155
+leste,"Rua Jaime Taveira, Chácara Cruzeiro Do Sul, São Paulo Zona Leste, São Paulo",52.0,2.0,1550
+leste,"Rua Faustino Da Costa Santos, Jardim Santa Maria, São Paulo Zona Leste, São Paulo",160.0,3.0,2500
+leste,"Rua Imbaçal, Parada Xv De Novembro, São Paulo Zona Leste, São Paulo",48.0,2.0,1260
+leste,"Rua Capitão José Leite, Vila Matilde, São Paulo Zona Leste, São Paulo",119.0,2.0,1700
+leste,"Rua Costa Barros, Vila Alpina, São Paulo Zona Leste, São Paulo",54.0,2.0,1260
+leste,"Rua José Bauman, Jardim Redil, São Paulo Zona Leste, São Paulo",48.0,2.0,1610
+leste,"Praça Visconde De Sousa Fontes, Parque Da Mooca, São Paulo Zona Leste, São Paulo",228.0,4.0,6200
+leste,"Avenida Antônio Manograsso, Chácara Belenzinho, São Paulo Zona Leste, São Paulo",200.0,3.0,2430
+leste,"Rua Olímpio Portugal, Moóca, São Paulo Zona Leste, São Paulo",146.0,3.0,6000
+leste,"Rua Anália Franco, Vila Regente Feijó, São Paulo Zona Leste, São Paulo",270.0,4.0,4190
+leste,"Rua Cândido Vale, Tatuapé, São Paulo Zona Leste, São Paulo",40.0,3.0,2620
+leste,"Rua Natal Meira De Barros, Jardim Aricanduva, São Paulo Zona Leste, São Paulo",150.0,3.0,2420
+leste,"Rua Coronel Donato, Vila Matilde, São Paulo Zona Leste, São Paulo",212.0,3.0,6000
+leste,"Rua Pantojo, Vila Regente Feijó, São Paulo Zona Leste, São Paulo",62.0,2.0,5000
+leste,"Rua Doutor Renato Maia, Jardim Jaú (zona Leste), São Paulo Zona Leste, São Paulo",400.0,3.0,2900
+leste,"Avenida Regente Feijó, Vila Regente Feijó, São Paulo Zona Leste, São Paulo",53.0,2.0,1768
+leste,"Rua Iguatu, Jardim Nordeste, São Paulo Zona Leste, São Paulo",37.0,1.0,850
+leste,"Rua André Vidal, Tatuapé, São Paulo Zona Leste, São Paulo",88.0,3.0,2900
+leste,"Rua Almeida Brandão, Vila Guilhermina, São Paulo Zona Leste, São Paulo",80.0,3.0,1300
+leste,"Rua Taquarytinga, Alto Da Mooca, São Paulo Zona Leste, São Paulo",83.0,3.0,4850
+leste,"Rua Padre Antônio De Sá, Tatuapé, São Paulo Zona Leste, São Paulo",106.0,3.0,2600
+leste,"Rua Fidelis Papini, Vila Prudente, São Paulo Zona Leste, São Paulo",72.0,3.0,1976
+leste,"Rua Vênus, Vila Formosa, São Paulo Zona Leste, São Paulo",286.0,3.0,2500
+leste,"Rua Waldomiro Fonseca, Vila Regina ( Zona Leste), São Paulo Zona Leste, São Paulo",67.0,3.0,1500
+leste,"Rua Faustino Da Costa Santos, Jardim Santa Maria, São Paulo Zona Leste, São Paulo",160.0,3.0,2600
+leste,"Rua Arinaia, Belenzinho, São Paulo Zona Leste, São Paulo",180.0,4.0,7999
+leste,"Rua Honório Maia, Maranhão, São Paulo Zona Leste, São Paulo",65.0,3.0,1700
+leste,"Rua Guajabaras, Vila Verde, São Paulo Zona Leste, São Paulo",200.0,3.0,2080
+leste,"Rua Redenção, Chácara Tatuapé, São Paulo Zona Leste, São Paulo",247.0,3.0,2410
+leste,"Rua Tijuco Preto, Tatuapé, São Paulo Zona Leste, São Paulo",70.0,3.0,3500
+leste,"Rua Liverpool, Vila Londrina, São Paulo Zona Leste, São Paulo",120.0,2.0,1872
+leste,"Rua Cajazeiras, Jardim Casa Pintada, São Paulo Zona Leste, São Paulo",50.0,2.0,1100
+leste,"Rua Paratiba, Jardim Nordeste, São Paulo Zona Leste, São Paulo",70.0,1.0,1000
+leste,"Rua Olho Dágua Do Borges, Vila Silvia, São Paulo Zona Leste, São Paulo",65.0,2.0,1417
+leste,"Avenida Hermilo Alves, Vila Ré, São Paulo Zona Leste, São Paulo",103.0,2.0,1560
+leste,"Rua Ibitirama, Vila Prudente, São Paulo Zona Leste, São Paulo",55.0,2.0,1560
+leste,"Rua Amélia De Freitas Beviláqua, Vila Ré, São Paulo Zona Leste, São Paulo",45.0,1.0,700
+leste,"Rua Diogo Jacome, Limoeiro, São Paulo Zona Leste, São Paulo",60.0,1.0,4265
+leste,"Rua Olímpio Portugal, Moóca, São Paulo Zona Leste, São Paulo",65.0,1.0,1600
+leste,"Rua Engenheiro Guilherme Cristiano Frender, Vila Antonieta, São Paulo Zona Leste, São Paulo",60.0,2.0,1260
+leste,"Rua Vinte E Nove De Outubro, Vila Matilde, São Paulo Zona Leste, São Paulo",70.0,1.0,1470
+leste,"Rua Das Nemésias, Jardim Casa Pintada, São Paulo Zona Leste, São Paulo",220.0,2.0,2400
+leste,"Rua Ferreira De Oliveira, Alto Do Pari, São Paulo Zona Leste, São Paulo",54.0,2.0,2600
+leste,"Rua Dias Leme, Moóca, São Paulo Zona Leste, São Paulo",107.0,2.0,3600
+leste,"Rua Emílio Mallet, Vila Gomes Cardim, São Paulo Zona Leste, São Paulo",80.0,2.0,3000
+leste,"Rua Iguaré, Tatuapé, São Paulo Zona Leste, São Paulo",50.0,2.0,1200
+leste,"Rua Lino Petenoni, Vila Paranaguá, São Paulo Zona Leste, São Paulo",52.0,2.0,1845
+leste,"Rua Marechal Barbacena, Vila Regente Feijó, São Paulo Zona Leste, São Paulo",117.0,3.0,2754
+leste,"Avenida Doutor Francisco Mesquita, Quinta Da Paineira, São Paulo Zona Leste, São Paulo",35.0,1.0,1100
+leste,"Rua Atucuri, Chácara Santo Antônio (zona Leste), São Paulo Zona Leste, São Paulo",64.0,2.0,2000
+leste,"Avenida Ibiúna, Vila Aricanduva, São Paulo Zona Leste, São Paulo",35.0,1.0,1260
+leste,"Rua Pantojo, Vila Regente Feijó, São Paulo Zona Leste, São Paulo",56.0,2.0,1900
+leste,"Rua São Jorge, Parque São Jorge, São Paulo Zona Leste, São Paulo",66.0,2.0,3060
+leste,"Avenida Ibiúna, Vila Aricanduva, São Paulo Zona Leste, São Paulo",37.0,1.0,1560
+leste,"Avenida Olga Fadel Abarca, Jardim Santa Terezinha (zona Leste), São Paulo Zona Leste, São Paulo",54.0,2.0,1560
+leste,"Rua Serra De Botucatu, Chácara Califórnia, São Paulo Zona Leste, São Paulo",54.0,2.0,1600
+leste,"Avenida Ibiúna, Chácara Califórnia, São Paulo Zona Leste, São Paulo",35.0,2.0,1872
+leste,"Rua Toledo Barbosa, Belenzinho, São Paulo Zona Leste, São Paulo",70.0,2.0,3000
+leste,"Avenida Vila Ema, Vila Ema, São Paulo Zona Leste, São Paulo",50.0,2.0,2000
+leste,"Rua Tijuco Preto, Vila Gomes Cardim, São Paulo Zona Leste, São Paulo",100.0,2.0,3000
+leste,"Rua Azevedo Soares, Vila Gomes Cardim, São Paulo Zona Leste, São Paulo",224.0,3.0,15000
+leste,"Rua: Ibitirama, Vila Prudente, São Paulo Zona Leste, São Paulo",65.0,2.0,3300
+leste,"Rua Ibitirama, Vila Prudente, São Paulo Zona Leste, São Paulo",55.0,2.0,3264
+leste,"Rua João Viêira Prioste, Vila Carrão, São Paulo Zona Leste, São Paulo",50.0,2.0,3000
+leste,"Rua Ferreira De Oliveira, Alto Do Pari, São Paulo Zona Leste, São Paulo",62.0,3.0,2020
+leste,"Rua Ernesto Dos Santos, Jardim Independencia, São Paulo Zona Leste, São Paulo",200.0,3.0,4000
+leste,"Rua Antônio Muniz Fagundes, Vila Virginia, São Paulo Zona Leste, São Paulo",180.0,4.0,2850
+leste,"Rua Pedro Bellegarde, Chácara Califórnia, São Paulo Zona Leste, São Paulo",57.0,2.0,2000
+leste,"Rua Fábio José Bezerra, Parque Boturussu, São Paulo Zona Leste, São Paulo",50.0,2.0,2520
+leste,"Avenida Condessa Elizabeth De Robiano, Tatuapé, São Paulo Zona Leste, São Paulo",62.0,2.0,2100
+leste,"Rua Henrique Sertório, Alto Da Mooca, São Paulo Zona Leste, São Paulo",49.0,2.0,2387
+leste,"Avenida Doutor Francisco Mesquita, Quinta Da Paineira, São Paulo Zona Leste, São Paulo",35.0,1.0,1100
+leste,"Rua Cristianópolis, Alto Da Mooca, São Paulo Zona Leste, São Paulo",120.0,3.0,2700
+leste,"Rua Madrid, Parque Sevilha, São Paulo Zona Leste, São Paulo",180.0,3.0,5000
+leste,"Rua Cristóvão De Vasconcelos, Jardim Adutora, São Paulo Zona Leste, São Paulo",100.0,1.0,1520
+leste,"Rua Cachoeri, Vila Oratório, São Paulo Zona Leste, São Paulo",73.0,2.0,1500
+leste,"Rua Francisco Pizarro, Parque Boturussu, São Paulo Zona Leste, São Paulo",90.0,3.0,2520
+leste,"Rua Doutor Vicente Giacaglini, Vila Bela, São Paulo Zona Leste, São Paulo",76.0,2.0,2430
+leste,"Rua Guarapuava, Moóca, São Paulo Zona Leste, São Paulo",52.0,2.0,2288
+leste,"Rua Nhengaibas, Vila Graciosa, São Paulo Zona Leste, São Paulo",107.0,3.0,3960
+leste,"Rua Santa Lúcia, Cidade Mãe Do Ceu, São Paulo Zona Leste, São Paulo",70.0,3.0,3700
+leste,"Rua Fábio José Bezerra, Parque Boturussu, São Paulo Zona Leste, São Paulo",315.0,3.0,3500
+leste,"Rua Raimundo Machado, Jardim Cotinha, São Paulo Zona Leste, São Paulo",250.0,4.0,2600
+leste,"Rua Paratiba, Jardim Nordeste, São Paulo Zona Leste, São Paulo",57.0,2.0,2520
+leste,"Rua Lagoa De Dentro, Vila Silvia, São Paulo Zona Leste, São Paulo",44.0,2.0,1340
+leste,"Rua Paulo Lopes De Leão, Itaquera, São Paulo Zona Leste, São Paulo",100.0,1.0,1100
+leste,"Rua Moisés Justino, Vila Nhocune, São Paulo Zona Leste, São Paulo",100.0,2.0,1260
+leste,"Rua Andrade Reis, Moóca, São Paulo Zona Leste, São Paulo",33.0,1.0,1800
+leste,"Rua Cônego Antônio Lessa, Parque Da Mooca, São Paulo Zona Leste, São Paulo",35.0,1.0,1600
+leste,"Rua Costa Barros, Sítio Pinheirinho, São Paulo Zona Leste, São Paulo",49.0,2.0,1100
+leste,"Rua Entá, Alto Da Mooca, São Paulo Zona Leste, São Paulo",40.0,1.0,1600
+leste,"Rua Evaristo Vaz De Arruda, 5, Tatuapé, São Paulo Zona Leste, São Paulo",381.0,4.0,5500
+leste,"Rua Guarapuava, Moóca, São Paulo Zona Leste, São Paulo",33.0,1.0,2150
+leste,"Rua Jaboticabal, Vila Bertioga, São Paulo Zona Leste, São Paulo",50.0,2.0,1610
+leste,"Rua Granada, Parque Sevilha, São Paulo Zona Leste, São Paulo",100.0,2.0,2600
+leste,"Rua Nova Trento, Vila Formosa, São Paulo Zona Leste, São Paulo",68.0,2.0,2350
+leste,"Rua Dianópolis, Parque Da Mooca, São Paulo Zona Leste, São Paulo",48.0,2.0,1350
+leste,"Rua Marcos Arruda, Catumbi, São Paulo Zona Leste, São Paulo",30.0,1.0,1250
+leste,"Rua Jarinu, Cidade Mãe Do Ceu, São Paulo Zona Leste, São Paulo",32.0,1.0,1500
+leste,"Rua Marcelo Muller, Jardim Independencia, São Paulo Zona Leste, São Paulo",25.0,1.0,969
+leste,"Rua Bacabás, Parque São Lucas, São Paulo Zona Leste, São Paulo",50.0,1.0,800
+leste,"Avenida Conselheiro Carrão,
+                1038, Chácara Califórnia, São Paulo Zona Leste, São Paulo",45.0,,1050
+leste,"Quarta Parada, São Paulo Zona Leste, São Paulo",264.0,,5500
+leste,"Vila Ré, São Paulo Zona Leste, São Paulo",196.0,,6000
+leste,"Rua Padre Raposo, 167, Moóca, São Paulo Zona Leste, São Paulo",240.0,,5500
+leste,"Rua Gregório Souza, Vila Nova Savoia, São Paulo Zona Leste, São Paulo",40.0,1.0,560
+leste,"Rua Gregório Souza, Vila Nova Savoia, São Paulo Zona Leste, São Paulo",50.0,1.0,660
+leste,"Alto Da Mooca, São Paulo Zona Leste, São Paulo",77.0,3.0,2750
+leste,"Jardim Têxtil, São Paulo Zona Leste, São Paulo",325.0,,5500
+leste,"Rua Cantagalo, 570, Vila Gomes Cardim, São Paulo Zona Leste, São Paulo",64.0,,5500
+leste,"Nao Informado, Parque Das Paineiras, São Paulo Zona Leste, São Paulo",,1.0,750
+leste,"Amador Bueno Da Veiga 282, Penha De Franca, São Paulo Zona Leste, São Paulo",6.0,1.0,299
+leste,"Agrimensor Sugaya 1437, Itaquera, São Paulo Zona Leste, São Paulo",47.0,2.0,1208
+leste,"Rua Capitão Ferraioulo 125, Vila Invernada, São Paulo Zona Leste, São Paulo",65.0,2.0,1000
+leste,"Rua Agrimensor Sugaya, Colônia (zona Leste), São Paulo Zona Leste, São Paulo",49.0,2.0,835
+leste,"Rua Colonial Das Missoes, Itaquera, São Paulo Zona Leste, São Paulo",39.0,2.0,1000
+leste,"Vila Zelina, São Paulo Zona Leste, São Paulo",110.0,2.0,2000
+leste,"Equici 314, Vila Esperança, São Paulo Zona Leste, São Paulo",45.0,1.0,1000
+leste,"Amador Bueno Da Veiga 282, Penha De Franca, São Paulo Zona Leste, São Paulo",6.0,1.0,299
+leste,"Rua Lourenço Xavier, Jardim Helena, São Paulo Zona Leste, São Paulo",40.0,2.0,1000
+leste,"Vila Antonieta, São Paulo Zona Leste, São Paulo",155.0,2.0,1580
+leste,"Avenida Regente Feijó, Vila Regente Feijó, São Paulo Zona Leste, São Paulo",77.0,2.0,3500
+leste,"Rua Júlio Parigot, Vila Antonieta, São Paulo Zona Leste, São Paulo",1300.0,,18000
+leste,"Vila Moreira, São Paulo Zona Leste, São Paulo",30.0,,1500
+leste,"Rua Dario Pozzo, Conjunto Residencial José Bonifácio, São Paulo Zona Leste, São Paulo",32.0,,700
+leste,"Vila Matilde, São Paulo Zona Leste, São Paulo",75.0,3.0,2200
+leste,"São Miguel Paulista, São Paulo Zona Leste, São Paulo",125.0,3.0,1800
+leste,"Rua Moisés Justino, 183, Vila Nhocune, São Paulo Zona Leste, São Paulo",45.0,2.0,1350
+leste,"Rua Atuai, Vila Esperança, São Paulo Zona Leste, São Paulo",92.0,3.0,2700
+leste,"Rua Júlio Parigot, Vila Antonieta, São Paulo Zona Leste, São Paulo",1200.0,,13000
+leste,"Belenzinho, São Paulo Zona Leste, São Paulo",115.0,3.0,2300
+leste,"Jardim Anália Franco, São Paulo Zona Leste, São Paulo",300.0,3.0,4000
+leste,"Jardim Avelino, São Paulo Zona Leste, São Paulo",157.0,3.0,2500
+leste,"Vila Prudente, São Paulo Zona Leste, São Paulo",70.0,2.0,1900
+leste,"Vila Regente Feijó, São Paulo Zona Leste, São Paulo",70.0,3.0,1500
+leste,"Vila Regente Feijó, São Paulo Zona Leste, São Paulo",79.0,1.0,2800
+leste,"Avenida Conselheiro Carrão,,
+                549, Vila Carrão, São Paulo Zona Leste, São Paulo",280.0,,8500
+leste,"Cangaíba, São Paulo Zona Leste, São Paulo",50.0,,1600
+leste,"Chácara Seis De Outubro, São Paulo Zona Leste, São Paulo",70.0,2.0,1900
+leste,"Jardim Colonial, São Paulo Zona Leste, São Paulo",60.0,2.0,1069
+leste,"Rua Batista Fergusio, Vila Cardoso Franco, São Paulo Zona Leste, São Paulo",107.0,3.0,1350
+leste,"Vila Granada, São Paulo Zona Leste, São Paulo",2600.0,,55000
+leste,"Rua Astorga,
+                430, Vila Guilhermina, São Paulo Zona Leste, São Paulo",400.0,,30000
+leste,"Vila Gomes Cardim, São Paulo Zona Leste, São Paulo",35.0,1.0,2440
+leste,"Rua Abadiânia, Vila Guilhermina, São Paulo Zona Leste, São Paulo",1320.0,,15000
+leste,"Belenzinho, São Paulo Zona Leste, São Paulo",100.0,,3500
+leste,"Catumbi, São Paulo Zona Leste, São Paulo",28.0,1.0,1200
+leste,"R. Vilela, 652, Vila Azevedo, São Paulo Zona Leste, São Paulo",40.0,,2750
+leste,"Rua Engenheiro Manuel Osório, Vila Doutor Eiras, São Paulo Zona Leste, São Paulo",900.0,,12000
+leste,"Rua Maria Daffre, 155, Quinta Da Paineira, São Paulo Zona Leste, São Paulo",57.0,2.0,2000
+leste,"Avenida Aricanduva, Vila Califórnia, São Paulo Zona Leste, São Paulo",58.0,2.0,1400
+leste,"José Manuel Martins, Itaquera, São Paulo Zona Leste, São Paulo",210.0,3.0,4950
+leste,"Vila Mafra, São Paulo Zona Leste, São Paulo",60.0,2.0,1700
+leste,"Rua Visconde De Balsemão, 191, Vila Mafra, São Paulo Zona Leste, São Paulo",60.0,2.0,1900
+leste,"Jardim Avelino, São Paulo Zona Leste, São Paulo",180.0,3.0,4000
+leste,"Rua Sebastião De Andrade, 258 - Vila Matilde, São Paulo - Sp, Brasil, Vila Matilde, São Paulo Zona Leste, São Paulo",40.0,1.0,600
+leste,"Rua Fioravante Lopes Garcia, Jardim Belém, São Paulo Zona Leste, São Paulo",45.0,2.0,1100
+leste,"Vila Carmosina, São Paulo Zona Leste, São Paulo",47.0,2.0,2000
+leste,"Vila Gomes Cardim, São Paulo Zona Leste, São Paulo",400.0,,10000
+leste,"Vila Prudente, São Paulo Zona Leste, São Paulo",38.0,,1200
+leste,"Rua Miranorte, Vila Taquari, São Paulo Zona Leste, São Paulo",60.0,2.0,1300
+leste,"Avenida Waldemar Tietz, Cidade Líder, São Paulo Zona Leste, São Paulo",58.0,2.0,1000
+leste,"R. Vilela, 652, Vila Azevedo, São Paulo Zona Leste, São Paulo",40.0,,2750
+leste,"Rua Bispo Eugênio Demazemod, Vila Alpina, São Paulo Zona Leste, São Paulo",55.0,2.0,1750
+leste,"Penha De Franca, São Paulo Zona Leste, São Paulo",25.0,,1450
+leste,"Avenida Padres Olivetanos, Vila Esperança, São Paulo Zona Leste, São Paulo",30.0,1.0,1220
+leste,"Vila Prudente, São Paulo Zona Leste, São Paulo",30.0,1.0,1000
+leste,"Rua Campinas Do Piauí, Itaquera, São Paulo Zona Leste, São Paulo",30.0,,1800
+leste,"Rua Das Águias Reais, Conjunto Residencial Sitio Oratório, São Paulo Zona Leste, São Paulo",50.0,2.0,780
+leste,"Rua Silva Lisboa, Vila Nhocune, São Paulo Zona Leste, São Paulo",70.0,2.0,1360
+leste,"Rua Nélson Tartuce, Parque Das Paineiras, São Paulo Zona Leste, São Paulo",40.0,1.0,990
+leste,"Rua Itaueira, Vila Taquari, São Paulo Zona Leste, São Paulo",30.0,1.0,600
+leste,"Rua Rosa Mendes, Jardim Penha, São Paulo Zona Leste, São Paulo",55.0,2.0,1100
+leste,"Conceição Do Formoso 373, Jardim Cotinha, São Paulo Zona Leste, São Paulo",291.0,,13000
+leste,"Vila Regente Feijó, São Paulo Zona Leste, São Paulo",55.0,,3000
+leste,"Rua Barão De Abiaí, Chácara Belenzinho, São Paulo Zona Leste, São Paulo",528.0,,13000
+leste,"Rua Ibitirama 811, Vila Prudente, São Paulo Zona Leste, São Paulo",70.0,,1600
+leste,"Rua Júlio Parigot, Vila Antonieta, São Paulo Zona Leste, São Paulo",1500.0,,16800
+leste,"Rua São Gil, 67, Tatuapé, São Paulo Zona Leste, São Paulo",250.0,5.0,5400
+leste,"Jardim Aricanduva, Jardim Aricanduva, São Paulo Zona Leste, São Paulo",250.0,,2000
+leste,"Avenida Celso Garcia 4707, Tatuapé, São Paulo Zona Leste, São Paulo",65.0,1.0,1570
+leste,"Rua Margarida De Lima, Tatuapé, São Paulo Zona Leste, São Paulo",45.0,1.0,1700
+leste,"Rua Guaxupé, Vila Formosa, São Paulo Zona Leste, São Paulo",190.0,3.0,5800
+leste,"Moóca, São Paulo Zona Leste, São Paulo",100.0,,2800
+leste,"Rua Fernando Dondon, Tatuapé, São Paulo Zona Leste, São Paulo",110.0,2.0,1700
+leste,"Vila Antonieta, São Paulo Zona Leste, São Paulo",,2.0,1100
+leste,"Rua Enrico Bastiglia, Parque Da Mooca, São Paulo Zona Leste, São Paulo",60.0,2.0,1210
+leste,"Rua Euclides Pacheco, Tatuapé, São Paulo Zona Leste, São Paulo",148.0,3.0,3200
+leste,"Rua Doutor Raul Da Rocha Medeiros, Tatuapé, São Paulo Zona Leste, São Paulo",240.0,4.0,5000
+leste,"Rua Professor Antônio De Castro Lopes, Parque Boturussu, São Paulo Zona Leste, São Paulo",28.0,1.0,650
+leste,"Rua Lagoa Do Campêlo, Itaquera, São Paulo Zona Leste, São Paulo",65.0,2.0,1550
+leste,"Rua Capitão Ferraiuolo 266, Vila Invernada, São Paulo Zona Leste, São Paulo",50.0,2.0,1100
+leste,"Rua Antonieta De Morais, Vila Matilde, São Paulo Zona Leste, São Paulo",67.0,3.0,1400
+leste,"Rua Tuiuti, Tatuapé, São Paulo Zona Leste, São Paulo",81.0,3.0,2840
+leste,"Rua Professor Antônio De Castro Lopes, Parque Boturussu, São Paulo Zona Leste, São Paulo",37.0,1.0,800
+leste,"Parque Da Vila Prudente, São Paulo Zona Leste, São Paulo",30.0,1.0,900
+leste,"Rua Antônio Leite Penteado, Jardim Verônia, São Paulo Zona Leste, São Paulo",25.0,1.0,650
+leste,"Avenida Gabriela Mistral, Penha De Franca, São Paulo Zona Leste, São Paulo",76.0,2.0,1100
+leste,"Rua Capitão Pacheco E Chaves, Vila Prudente, São Paulo Zona Leste, São Paulo",26.0,1.0,890
+leste,"Rua Madre De Deus, Moóca, São Paulo Zona Leste, São Paulo",300.0,3.0,11000
+leste,"Rua Henrique Casela, Jardim América Da Penha, São Paulo Zona Leste, São Paulo",49.0,2.0,1260
+leste,"Jardim Danfer, São Paulo Zona Leste, São Paulo",1360.0,,15000
+leste,"Rua Baltazar Nunes, Vila Carmosina, São Paulo Zona Leste, São Paulo",47.0,2.0,1100
+leste,"Rua Cantagalo, Vila Gomes Cardim, São Paulo Zona Leste, São Paulo",100.0,2.0,1320
+leste,"Avenida Condessa Elizabeth De Robiano, Tatuapé, São Paulo Zona Leste, São Paulo",65.0,2.0,2560
+leste,"Rua João Cordeiro, Vila Carrão, São Paulo Zona Leste, São Paulo",480.0,4.0,10950
+leste,"Rua Baltazar Nunes  600, Itaquera, São Paulo Zona Leste, São Paulo",48.0,2.0,1400
+leste,"Avenida Cangaíba, Cangaíba, São Paulo Zona Leste, São Paulo",60.0,2.0,1200
+leste,"Rua Francisco Gomes Da Rocha, Vila Antonieta, São Paulo Zona Leste, São Paulo",60.0,2.0,1520
+leste,"Rua Coronel Carlos Oliva, Tatuapé, São Paulo Zona Leste, São Paulo",41.0,1.0,1590
+leste,"Avenida Vila Ema, Vila Ema, São Paulo Zona Leste, São Paulo",65.0,2.0,1400
+leste,"Rua Ignácio Alves De Mattos, Itaquera, São Paulo Zona Leste, São Paulo",120.0,3.0,3311
+leste,"Rua Celestino Gonçalves Bueno, Vila Londrina, São Paulo Zona Leste, São Paulo",61.0,2.0,1000
+leste,"Avenida Norberto Mayer, Vila Carrão, São Paulo Zona Leste, São Paulo",60.0,1.0,1100
+leste,"Avenida Milene Elias, Ermelino Matarazzo, São Paulo Zona Leste, São Paulo",80.0,1.0,9380
+leste,"Rua Oratório, Moóca, São Paulo Zona Leste, São Paulo",55.0,2.0,2000
+leste,"Rua Abel Tavares, Jardim Belém, São Paulo Zona Leste, São Paulo",41.0,2.0,1000
+leste,"Rua Isabel, Vila Esperança, São Paulo Zona Leste, São Paulo",70.0,2.0,1300
+leste,"Avenida Paranaguá, Ermelino Matarazzo, São Paulo Zona Leste, São Paulo",70.0,2.0,1200
+leste,"Rua São João Da Bocaina, Chácara Mafalda, São Paulo Zona Leste, São Paulo",75.0,2.0,1600
+leste,"Rua Asfaltite, Vila Formosa, São Paulo Zona Leste, São Paulo",76.0,2.0,1400
+leste,"Rua José Manso, Vila Matilde, São Paulo Zona Leste, São Paulo",50.0,2.0,1700
+leste,"Rua Mercedes Lopes, Vila Santana, São Paulo Zona Leste, São Paulo",60.0,2.0,1150
+leste,"Rua Monguba, Vila Carrão, São Paulo Zona Leste, São Paulo",110.0,3.0,2200
+leste,"Rua Vitoantônio Del Vecchio, Parque Da Mooca, São Paulo Zona Leste, São Paulo",57.0,1.0,1990
+leste,"Avenida Matapi, Jardim Santa Terezinha (zona Leste), São Paulo Zona Leste, São Paulo",45.0,2.0,1180
+leste,"Rua Fontoura Xavier, Itaquera, São Paulo Zona Leste, São Paulo",42.0,2.0,1350
+leste,"Rua Francisco Marengo, Tatuapé, São Paulo Zona Leste, São Paulo",78.0,3.0,2400
+leste,"Rua Passo Fundo, Jardim De Lorenzo, São Paulo Zona Leste, São Paulo",186.0,4.0,5000
+leste,"Avenida Doutor Bernardino Brito Fonseca De Carvalho, Vila Talarico, São Paulo Zona Leste, São Paulo",53.0,2.0,1149
+leste,"Avenida Olavo Egídio De Souza Aranha, Parque Císper, São Paulo Zona Leste, São Paulo",200.0,2.0,920
+leste,"Rua Serra De Bragança, Vila Gomes Cardim, São Paulo Zona Leste, São Paulo",40.0,1.0,1650
+leste,"Estrada Velha Da Penha, Tatuapé, São Paulo Zona Leste, São Paulo",90.0,3.0,2000
+leste,"Rua Visconde De Parnaíba, Moóca, São Paulo Zona Leste, São Paulo",36.0,1.0,1700
+leste,"Rua Da Mooca, Moóca, São Paulo Zona Leste, São Paulo",74.0,2.0,2000
+leste,"Avenida Osvaldo Valle Cordeiro, Jardim Brasília (zona Leste), São Paulo Zona Leste, São Paulo",53.0,2.0,1140
+leste,"Rua Professor Pedreira De Freitas, Tatuapé, São Paulo Zona Leste, São Paulo",86.0,3.0,2600
+leste,"Rua Iguará, Vila Alpina, São Paulo Zona Leste, São Paulo",32.0,1.0,920
+leste,"Avenida Sapopemba, Vila Regente Feijó, São Paulo Zona Leste, São Paulo",98.0,3.0,1820
+leste,"Rua Pastoril De Itapetinga, Jardim Danfer, São Paulo Zona Leste, São Paulo",120.0,3.0,2050
+leste,"Rua Vinte E Nove De Outubro, Vila Matilde, São Paulo Zona Leste, São Paulo",70.0,1.0,1440
+leste,"Rua Antônio Tertuliano, Parque Boturussu, São Paulo Zona Leste, São Paulo",55.0,2.0,1700
+leste,"Rua Fernando Mônaco, Vila Buenos Aires, São Paulo Zona Leste, São Paulo",100.0,2.0,1600
+leste,"Rua Taquarytinga, Alto Da Mooca, São Paulo Zona Leste, São Paulo",83.0,2.0,3900
+leste,"Avenida Vila Ema, Vila Ema, São Paulo Zona Leste, São Paulo",110.0,3.0,2010
+oeste,"Rua Canuto Luiz Do Nascimento, Jardim Capelinha, São Paulo Zona Oeste, São Paulo",28.0,,700
+oeste,"Rua Mergenthaler, 1001, Vila Leopoldina, São Paulo Zona Oeste, São Paulo",1470.0,,51450
+oeste,"Rua Clélia, Água Branca, São Paulo Zona Oeste, São Paulo",47.0,1.0,1307
+oeste,"Rua Hans Oersted, Cidade Moncoes, São Paulo Zona Oeste, São Paulo",33.0,1.0,1430
+oeste,"Avenida Cardeal Motta, City América, São Paulo Zona Oeste, São Paulo",79.0,3.0,1600
+oeste,"Rua Leão Coroado, Vila Madalena, São Paulo Zona Oeste, São Paulo",117.0,1.0,6300
+oeste,"Rua Torres Da Barra, Água Branca, São Paulo Zona Oeste, São Paulo",31.0,1.0,1150
+oeste,"Rua Teodoro Sampaio, Pinheiros, São Paulo Zona Oeste, São Paulo",40.0,1.0,2100
+oeste,"Rua Professor Celso Quirino Dos Santos, Cidade São Francisco, São Paulo Zona Oeste, São Paulo",60.0,2.0,1430
+oeste,"Rua João Tibiriçá, Lapa, São Paulo Zona Oeste, São Paulo",25.0,1.0,1100
+oeste,"Rua Nanuque, Vila Leopoldina, São Paulo Zona Oeste, São Paulo",62.0,2.0,2000
+oeste,"Rua Turiassú, Perdizes, São Paulo Zona Oeste, São Paulo",96.0,1.0,3100
+oeste,"Rua Pantaleão Brás, Jardim Ester, São Paulo Zona Oeste, São Paulo",70.0,2.0,1300
+oeste,"Rua Doutor Laerte Setúbal, Vila Suzana, São Paulo Zona Oeste, São Paulo",70.0,2.0,1900
+oeste,"Rua Corinto, Vila Indiana, São Paulo Zona Oeste, São Paulo",87.0,3.0,1600
+oeste,"Rua Croata, Vila Ipojuca, São Paulo Zona Oeste, São Paulo",72.0,3.0,1800
+oeste,"Rua Harmonia, Sumarezinho, São Paulo Zona Oeste, São Paulo",100.0,3.0,4300
+oeste,"Rua Mateus Grou, Pinheiros, São Paulo Zona Oeste, São Paulo",45.0,1.0,2500
+oeste,"Avenida Raimundo Pereira De Magalhães, Jardim Íris, São Paulo Zona Oeste, São Paulo",68.0,2.0,1940
+oeste,"Rua Torres Da Barra, Água Branca, São Paulo Zona Oeste, São Paulo",30.0,1.0,1600
+oeste,"Rua Vupabussu, Pinheiros, São Paulo Zona Oeste, São Paulo",47.0,1.0,2320
+oeste,"Rua Raul Pompéia, Vila Pompéia, São Paulo Zona Oeste, São Paulo",75.0,2.0,3300
+oeste,"Rua Cajaíba, Vila Pompéia, São Paulo Zona Oeste, São Paulo",55.0,2.0,1900
+oeste,"Rua Do Símbolo, Jardim Ampliação, São Paulo Zona Oeste, São Paulo",136.0,3.0,1800
+oeste,"Rua Parnamirim, Jaguaré, São Paulo Zona Oeste, São Paulo",54.0,1.0,1130
+oeste,"Rua Eusébio De Paula Marcondes, Jardim D Abril, São Paulo Zona Oeste, São Paulo",67.0,3.0,1465
+oeste,"Avenida Diógenes Ribeiro De Lima, Alto Da Lapa, São Paulo Zona Oeste, São Paulo",42.0,1.0,2000
+oeste,"Rua Domingos Mazzeu, Vila Lageado, São Paulo Zona Oeste, São Paulo",53.0,2.0,1736
+oeste,"Rua Doutor Miranda De Azevedo, Vila Anglo Brasileira, São Paulo Zona Oeste, São Paulo",73.0,2.0,2100
+oeste,"Rua Oscar Pinheiro Coelho, Caxingui, São Paulo Zona Oeste, São Paulo",119.0,3.0,2500
+oeste,"Rua Manuel Henrique Lopes, Pinheiros, São Paulo Zona Oeste, São Paulo",50.0,2.0,2392
+oeste,"Rua Agenor De Lima Franco, Jardim Peri Peri, São Paulo Zona Oeste, São Paulo",74.0,3.0,2320
+oeste,"Rua Filipinas, Alto Da Lapa, São Paulo Zona Oeste, São Paulo",64.0,2.0,2050
+oeste,"Rua Bernarda Luiz, Vila Madalena, São Paulo Zona Oeste, São Paulo",180.0,2.0,9500
+oeste,"Rua Ministro Gastão Mesquita, Perdizes, São Paulo Zona Oeste, São Paulo",60.0,2.0,2500
+oeste,"Rua Cunha Gago, Pinheiros, São Paulo Zona Oeste, São Paulo",60.0,2.0,4900
+oeste,"Rua Isabel De Castela, Vila Madalena, São Paulo Zona Oeste, São Paulo",90.0,2.0,4700
+oeste,"Avenida Doutor Guilherme Dumont Vilares, Jardim Londrina, São Paulo Zona Oeste, São Paulo",40.0,1.0,1320
+oeste,"Avenida Doutor Gastão Vidigal, Vila Leopoldina, São Paulo Zona Oeste, São Paulo",76.0,2.0,3280
+oeste,"Rua Vigário João Álvares, Jardim Cambara, São Paulo Zona Oeste, São Paulo",261.0,3.0,3100
+oeste,"Avenida José Galante, Vila Suzana, São Paulo Zona Oeste, São Paulo",54.0,1.0,1560
+oeste,"Rua Bartira, Perdizes, São Paulo Zona Oeste, São Paulo",200.0,3.0,5500
+oeste,"Rua Bartira, Perdizes, São Paulo Zona Oeste, São Paulo",230.0,4.0,3600
+oeste,"Avenida Santa Marina, Água Branca, São Paulo Zona Oeste, São Paulo",62.0,2.0,2250
+oeste,"Rua Apiacás, Perdizes, São Paulo Zona Oeste, São Paulo",125.0,3.0,2520
+oeste,"Rua Natingui, Vila Madalena, São Paulo Zona Oeste, São Paulo",35.0,1.0,2800
+oeste,"Rua Doutor Miranda De Azevedo, Vila Anglo Brasileira, São Paulo Zona Oeste, São Paulo",110.0,3.0,2737
+oeste,"Rua Eugênio De Medeiros, Pinheiros, São Paulo Zona Oeste, São Paulo",34.0,1.0,3400
+oeste,"Avenida Padre Antônio José Dos Santos, Cidade Moncoes, São Paulo Zona Oeste, São Paulo",70.0,2.0,3060
+oeste,"Rua Coronel Melo Oliveira, Perdizes, São Paulo Zona Oeste, São Paulo",62.0,2.0,3500
+oeste,"Rua Filipe De Gusmão, Sumarezinho, São Paulo Zona Oeste, São Paulo",400.0,3.0,9000
+oeste,"Rua Eugênio De Medeiros, Pinheiros, São Paulo Zona Oeste, São Paulo",34.0,1.0,4000
+oeste,"Avenida Pompéia, Vila Pompéia, São Paulo Zona Oeste, São Paulo",60.0,2.0,2600
+oeste,"Rua Eugênio De Medeiros, Pinheiros, São Paulo Zona Oeste, São Paulo",34.0,1.0,3457
+oeste,"Praça General Porto Carreiro, Jaguaré, São Paulo Zona Oeste, São Paulo",70.0,2.0,1900
+oeste,"Rua Capote Valente, Pinheiros, São Paulo Zona Oeste, São Paulo",44.0,1.0,3700
+oeste,"Rua Eugênio De Medeiros, Pinheiros, São Paulo Zona Oeste, São Paulo",37.0,1.0,3700
+oeste,"Rua Eugênio Lorenzetti, Jardim Íris, São Paulo Zona Oeste, São Paulo",47.0,1.0,820
+oeste,"Rua Apinajés, Perdizes, São Paulo Zona Oeste, São Paulo",226.0,4.0,12000
+oeste,"Rua Iperoig, Perdizes, São Paulo Zona Oeste, São Paulo",94.0,3.0,2958
+oeste,"Rua Venâncio Aires, Vila Pompéia, São Paulo Zona Oeste, São Paulo",56.0,1.0,3121
+oeste,"Rua Domingos Lopes Da Silva, Vila Suzana, São Paulo Zona Oeste, São Paulo",37.0,1.0,1200
+oeste,"Rua Alagoas, Higienópolis, São Paulo Zona Oeste, São Paulo",160.0,3.0,5800
+oeste,"Rua Alves Guimarães, Pinheiros, São Paulo Zona Oeste, São Paulo",200.0,3.0,6510
+oeste,"Rua Massacá, Alto De Pinheiros, São Paulo Zona Oeste, São Paulo",247.0,4.0,12000
+oeste,"Rua Doralice Paixão Teixeira, Pinheiros, São Paulo Zona Oeste, São Paulo",67.0,3.0,2200
+oeste,"Rua Caraibas, Perdizes, São Paulo Zona Oeste, São Paulo",92.0,3.0,4400
+oeste,"Rua Da Consolação, Pinheiros, São Paulo Zona Oeste, São Paulo",78.0,2.0,6300
+oeste,"Rua Anhatomirim, Jardim Cambara, São Paulo Zona Oeste, São Paulo",100.0,3.0,4080
+oeste,"Rua Teodoro Sampaio, Pinheiros, São Paulo Zona Oeste, São Paulo",120.0,3.0,4300
+oeste,"Rua Raul Pompéia, Vila Pompéia, São Paulo Zona Oeste, São Paulo",110.0,3.0,3349
+oeste,"Rua Carlos Weber, Vila Leopoldina, São Paulo Zona Oeste, São Paulo",126.0,3.0,9000
+oeste,"Rua Eugênio De Medeiros, Pinheiros, São Paulo Zona Oeste, São Paulo",34.0,1.0,3457
+oeste,"Rua Eugênio De Medeiros, Pinheiros, São Paulo Zona Oeste, São Paulo",34.0,1.0,3457
+oeste,"Rua Eugênio De Medeiros, Pinheiros, São Paulo Zona Oeste, São Paulo",34.0,1.0,3457
+oeste,"Rua Torres Da Barra, Água Branca, São Paulo Zona Oeste, São Paulo",31.0,1.0,1600
+oeste,"Rua Rubens Grisolia, Jardim Monte Kemel, São Paulo Zona Oeste, São Paulo",43.0,2.0,1400
+oeste,"Rua Eugênio De Medeiros, Pinheiros, São Paulo Zona Oeste, São Paulo",34.0,1.0,3457
+oeste,"Rua Girassol, Vila Madalena, São Paulo Zona Oeste, São Paulo",65.0,2.0,2500
+oeste,"Rua Padre Artur Somensi, Vila Madalena, São Paulo Zona Oeste, São Paulo",55.0,2.0,2600
+oeste,"Rua Cardeal Arcoverde, Pinheiros, São Paulo Zona Oeste, São Paulo",59.0,1.0,2500
+oeste,"Rua Domingos Lopes Da Silva, Vila Suzana, São Paulo Zona Oeste, São Paulo",120.0,2.0,2600
+oeste,"Rua Antônio Júlio Dos Santos, Fazenda Morumbi, São Paulo Zona Oeste, São Paulo",50.0,2.0,1350
+oeste,"Rua Apiacás, Perdizes, São Paulo Zona Oeste, São Paulo",217.0,4.0,6000
+oeste,"Rua Fradique Coutinho, Pinheiros, São Paulo Zona Oeste, São Paulo",50.0,1.0,2080
+oeste,"Rua Arizona, Cidade Moncoes, São Paulo Zona Oeste, São Paulo",74.0,1.0,5940
+oeste,"Rua Willis Roberto Banks, Parque Maria Domitila, São Paulo Zona Oeste, São Paulo",53.0,2.0,1260
+oeste,"Rua Joaquim Ferreira, Água Branca, São Paulo Zona Oeste, São Paulo",63.0,2.0,3060
+oeste,"Rua Arizona, Cidade Moncoes, São Paulo Zona Oeste, São Paulo",42.0,1.0,4000
+oeste,"Rua Francisco Luiz De Souza Júnior, Água Branca, São Paulo Zona Oeste, São Paulo",43.0,2.0,1600
+oeste,"Rua Capote Valente, Pinheiros, São Paulo Zona Oeste, São Paulo",32.0,1.0,4500
+oeste,"Avenida Aparecida Do Rio Negro, Jardim Íris, São Paulo Zona Oeste, São Paulo",33.0,2.0,1300
+oeste,"Rua Caiubí, Perdizes, São Paulo Zona Oeste, São Paulo",70.0,2.0,2400
+oeste,"Avenida Eusébio Matoso, Pinheiros, São Paulo Zona Oeste, São Paulo",44.0,1.0,4386
+oeste,"Rua Constance Mayer, Jardim Ester, São Paulo Zona Oeste, São Paulo",72.0,2.0,2350
+oeste,"Rua Jurupité, Jardim Trussardi, São Paulo Zona Oeste, São Paulo",170.0,3.0,2400
+oeste,"Rua Fernão Dias, Pinheiros, São Paulo Zona Oeste, São Paulo",170.0,3.0,6000
+oeste,"Rua Nelson Frank, Jardim Arpoador, São Paulo Zona Oeste, São Paulo",81.0,3.0,1560
+oeste,"Rua Jericó, Sumarezinho, São Paulo Zona Oeste, São Paulo",56.0,2.0,2800
+oeste,"Avenida Imperatriz Leopoldina, Vila Leopoldina, São Paulo Zona Oeste, São Paulo",50.0,2.0,2250
+oeste,"Avenida João Caiaffa, Jardim Taboão, São Paulo Zona Oeste, São Paulo",40.0,2.0,1050
+oeste,"Rua Dona Veridiana, Higienópolis, São Paulo Zona Oeste, São Paulo",208.0,4.0,7000
+oeste,"Rua Capote Valente, Pinheiros, São Paulo Zona Oeste, São Paulo",86.0,2.0,2800
+oeste,"Avenida Rebouças, Pinheiros, São Paulo Zona Oeste, São Paulo",200.0,3.0,5307
+oeste,"Rua Monte Alegre, Perdizes, São Paulo Zona Oeste, São Paulo",50.0,2.0,2868
+oeste,"Rua Carlos Weber, Vila Leopoldina, São Paulo Zona Oeste, São Paulo",88.0,2.0,4500
+oeste,"Rua Maranhão, Higienópolis, São Paulo Zona Oeste, São Paulo",275.0,4.0,8000
+oeste,"Avenida Santo Amaro, Rolinópolis, São Paulo Zona Oeste, São Paulo",33.0,1.0,3250
+oeste,"Rua Diego De Castilho, Jardim Fonte Do Morumbi, São Paulo Zona Oeste, São Paulo",77.0,2.0,3300
+oeste,"Rua Cunha Gago, Pinheiros, São Paulo Zona Oeste, São Paulo",50.0,1.0,1800
+oeste,"Rua Apiacás, Perdizes, São Paulo Zona Oeste, São Paulo",42.0,1.0,2200
+oeste,"Rua Alagoas, Higienópolis, São Paulo Zona Oeste, São Paulo",102.0,2.0,4029
+oeste,"Rua Guaraiúva, Cidade Moncoes, São Paulo Zona Oeste, São Paulo",41.0,1.0,2900
+oeste,"Avenida Corifeu De Azevedo Marques, Butantã, São Paulo Zona Oeste, São Paulo",40.0,2.0,2200
+oeste,"Rua João Moura, Pinheiros, São Paulo Zona Oeste, São Paulo",93.0,2.0,6500
+oeste,"Rua Marie Nader Calfat, Jardim Ampliação, São Paulo Zona Oeste, São Paulo",146.0,3.0,2500
+oeste,"Rua Símbolo, Jardim Ampliação, São Paulo Zona Oeste, São Paulo",75.0,3.0,2000
+oeste,"Rua Cayowaá, Perdizes, São Paulo Zona Oeste, São Paulo",103.0,3.0,4080
+oeste,"Rua Doutor Ernâni Da Gama Corrêa, Butantã, São Paulo Zona Oeste, São Paulo",75.0,3.0,2200
+oeste,"Avenida Diógenes Ribeiro De Lima 2000, Alto De Pinheiros, São Paulo Zona Oeste, São Paulo",72.0,3.0,2300
+oeste,"Avenida Corifeu De Azevedo Marques, Butantã, São Paulo Zona Oeste, São Paulo",30.0,1.0,1450
+oeste,"Rua Bahia, Higienópolis, São Paulo Zona Oeste, São Paulo",130.0,1.0,7200
+oeste,"Rua Amaro Cavalheiro, Pinheiros, São Paulo Zona Oeste, São Paulo",225.0,1.0,5500
+oeste,"Rua Fradique Coutinho, Pinheiros, São Paulo Zona Oeste, São Paulo",57.0,1.0,2700
+oeste,"Rua Sansão Alves Dos Santos, Cidade Moncoes, São Paulo Zona Oeste, São Paulo",54.0,1.0,4530
+oeste,"Rua Doutor Virgílio De Carvalho Pinto, Pinheiros, São Paulo Zona Oeste, São Paulo",40.0,1.0,2500
+oeste,"Rua Doutor Mário De Moura E Albuquerque, Jardim Monte Kemel, São Paulo Zona Oeste, São Paulo",84.0,3.0,2500
+oeste,"Rua Jacunda, Jardim Panorama, São Paulo Zona Oeste, São Paulo",479.0,4.0,10000
+oeste,"Rua Pascoal Vita, Vila Madalena, São Paulo Zona Oeste, São Paulo",90.0,2.0,3000
+oeste,"Rua Simão Álvares, Pinheiros, São Paulo Zona Oeste, São Paulo",179.0,3.0,4000
+oeste,"Rua Dos Juris, Vila Madalena, São Paulo Zona Oeste, São Paulo",200.0,4.0,5000
+oeste,"Rua Bahia, Higienópolis, São Paulo Zona Oeste, São Paulo",230.0,3.0,15000
+oeste,"Rua Nilza Medeiros Martins, Jardim Colombo, São Paulo Zona Oeste, São Paulo",140.0,3.0,3927
+oeste,"Rua Harmonia, Sumarezinho, São Paulo Zona Oeste, São Paulo",98.0,3.0,4000
+oeste,"Rua Osiris Magalhães De Almeida, Jardim Monte Kemel, São Paulo Zona Oeste, São Paulo",55.0,2.0,1700
+oeste,"Rua Santa Isabel Do Rio Negro, Jardim Íris, São Paulo Zona Oeste, São Paulo",44.0,2.0,1365
+oeste,"Rua Belchior De Azevedo, Vila Leopoldina, São Paulo Zona Oeste, São Paulo",130.0,4.0,6500
+oeste,"Rua Marcus Pereira, Vila Suzana, São Paulo Zona Oeste, São Paulo",103.0,2.0,2080
+oeste,"Rua Professor José Horácio Meirelles Teixeira, Vila Suzana, São Paulo Zona Oeste, São Paulo",73.0,3.0,2100
+oeste,"Rua Pereira Leite, Sumarezinho, São Paulo Zona Oeste, São Paulo",86.0,2.0,5000
+oeste,"Rua Forte William, Jardim Fonte Do Morumbi, São Paulo Zona Oeste, São Paulo",160.0,3.0,6700
+oeste,"Rua Mateus Grou, Pinheiros, São Paulo Zona Oeste, São Paulo",47.0,1.0,3570
+oeste,"Rua Oscar De Almeida, Fazenda Morumbi, São Paulo Zona Oeste, São Paulo",561.0,4.0,10000
+oeste,"Rua Milton Soares, Jardim Sarah, São Paulo Zona Oeste, São Paulo",60.0,2.0,1720
+oeste,"Rua Flórida, Cidade Moncoes, São Paulo Zona Oeste, São Paulo",41.0,1.0,3600
+oeste,"Avenida Raimundo Pereira De Magalhães, Jardim Íris, São Paulo Zona Oeste, São Paulo",45.0,2.0,2000
+oeste,"Rua Manuel Alonso Esteves, Jardim Esmeralda, São Paulo Zona Oeste, São Paulo",200.0,3.0,3000
+oeste,"Rua Arizona, Cidade Moncoes, São Paulo Zona Oeste, São Paulo",41.0,1.0,4000
+oeste,"Rua Levon Apovian, Jardim Trussardi, São Paulo Zona Oeste, São Paulo",245.0,3.0,3600
+oeste,"Rua Tucuna, Perdizes, São Paulo Zona Oeste, São Paulo",147.0,3.0,3960
+oeste,"Rua João Moura, Pinheiros, São Paulo Zona Oeste, São Paulo",29.0,1.0,3450
+oeste,"Rua Marie Nader Calfat, Jardim Ampliação, São Paulo Zona Oeste, São Paulo",32.0,1.0,2000
+oeste,"Rua Alves Guimarães, Pinheiros, São Paulo Zona Oeste, São Paulo",90.0,2.0,3162
+oeste,"Rua Ministro Gastão Mesquita, Perdizes, São Paulo Zona Oeste, São Paulo",120.0,3.0,3070
+oeste,"Rua Apinajés, Perdizes, São Paulo Zona Oeste, São Paulo",35.0,1.0,1800
+oeste,"Avenida Diógenes Ribeiro De Lima, Alto De Pinheiros, São Paulo Zona Oeste, São Paulo",188.0,3.0,5000
+oeste,"Avenida Francisco Matarazzo, Água Branca, São Paulo Zona Oeste, São Paulo",40.0,1.0,2520
+oeste,"Rua Artur De Azevedo, Pinheiros, São Paulo Zona Oeste, São Paulo",80.0,2.0,3600
+oeste,"Avenida Mofarrej, Vila Leopoldina, São Paulo Zona Oeste, São Paulo",121.0,4.0,5500
+oeste,"Rua Pensilvânia, Cidade Moncoes, São Paulo Zona Oeste, São Paulo",124.0,3.0,4000
+oeste,"Rua São Benedito, Jardim Novo Santo Amaro, São Paulo Zona Oeste, São Paulo",70.0,1.0,5000
+oeste,"Avenida Caxingui, Vila Pirajussara, São Paulo Zona Oeste, São Paulo",75.0,2.0,3150
+oeste,"Rua Iperoig, Perdizes, São Paulo Zona Oeste, São Paulo",223.0,4.0,9000
+oeste,"Rua Fernão Dias, Pinheiros, São Paulo Zona Oeste, São Paulo",42.0,1.0,2392
+oeste,"Rua Piracuama, Perdizes, São Paulo Zona Oeste, São Paulo",100.0,3.0,4200
+oeste,"Rua Bahia, Jardim Paineiras, São Paulo Zona Oeste, São Paulo",127.0,3.0,5000
+oeste,"Rua Camburiú, Vila Ipojuca, São Paulo Zona Oeste, São Paulo",126.0,2.0,7500
+oeste,"Rua Vupabussu, Pinheiros, São Paulo Zona Oeste, São Paulo",41.0,1.0,2520
+oeste,"Rua Francisco Marcondes Vieira, Lar São Paulo, São Paulo Zona Oeste, São Paulo",104.0,3.0,3460
+oeste,"Rua Roque Petrella, Vila Cordeiro, São Paulo Zona Oeste, São Paulo",39.0,1.0,3900
+oeste,"Rua João Moura, Pinheiros, São Paulo Zona Oeste, São Paulo",103.0,3.0,9000
+oeste,"Rua Marc Chagall, Água Branca, São Paulo Zona Oeste, São Paulo",158.0,4.0,11000
+oeste,"Avenida Wenceslau De Queiroz, Jaguaré, São Paulo Zona Oeste, São Paulo",84.0,3.0,3060
+oeste,"Rua Torres Da Barra, Água Branca, São Paulo Zona Oeste, São Paulo",31.0,1.0,2000
+oeste,"Rua Apiacás, Perdizes, São Paulo Zona Oeste, São Paulo",104.0,2.0,4000
+oeste,"Rua Vupabussu, Pinheiros, São Paulo Zona Oeste, São Paulo",55.0,2.0,3060
+oeste,"Rua Faustolo, Lapa, São Paulo Zona Oeste, São Paulo",101.0,3.0,4600
+oeste,"Avenida Eusébio Matoso, Pinheiros, São Paulo Zona Oeste, São Paulo",36.0,1.0,5000
+oeste,"Rua Flórida, Cidade Moncoes, São Paulo Zona Oeste, São Paulo",116.0,2.0,3300
+oeste,"Rua Desembargador Do Vale, Perdizes, São Paulo Zona Oeste, São Paulo",150.0,3.0,7500
+oeste,"Rua Campevas, Perdizes, São Paulo Zona Oeste, São Paulo",74.0,2.0,3570
+oeste,"Rua Djalma Coelho, Sumarezinho, São Paulo Zona Oeste, São Paulo",30.0,1.0,2594
+oeste,"Rua Novo Horizonte, Higienópolis, São Paulo Zona Oeste, São Paulo",60.0,2.0,3700
+oeste,"Rua Hassib Mofarrej, Vila Leopoldina, São Paulo Zona Oeste, São Paulo",36.0,2.0,2970
+oeste,"Rua Xavier Krauss, Vila Leopoldina, São Paulo Zona Oeste, São Paulo",35.0,2.0,2200
+oeste,"Rua Itapicuru, Perdizes, São Paulo Zona Oeste, São Paulo",116.0,3.0,5780
+oeste,"Rua Pedro De Sousa Campos Filho, Vila Madalena, São Paulo Zona Oeste, São Paulo",150.0,2.0,4550
+oeste,"Rua Pensilvânia, Cidade Moncoes, São Paulo Zona Oeste, São Paulo",36.0,1.0,3200
+oeste,"Rua Tonelero, Vila Ipojuca, São Paulo Zona Oeste, São Paulo",58.0,2.0,2080
+oeste,"Rua Doutor Franco Da Rocha, Perdizes, São Paulo Zona Oeste, São Paulo",36.0,1.0,3000
+oeste,"Rua Tucuna, Perdizes, São Paulo Zona Oeste, São Paulo",70.0,2.0,3800
+oeste,"Rua Capote Valente, Pinheiros, São Paulo Zona Oeste, São Paulo",136.0,3.0,4000
+oeste,"Rua Diana, Perdizes, São Paulo Zona Oeste, São Paulo",67.0,2.0,2600
+oeste,"Rua Pascoal Vita, Vila Madalena, São Paulo Zona Oeste, São Paulo",70.0,2.0,3980
+oeste,"Rua Doutor Mario Ferraz, Jardim Paulistano, São Paulo Zona Oeste, São Paulo",40.0,1.0,8430
+oeste,"Rua Carlos Vicari, Água Branca, São Paulo Zona Oeste, São Paulo",103.0,2.0,4500
+oeste,"Rua Fidalga, Pinheiros, São Paulo Zona Oeste, São Paulo",80.0,2.0,3370
+oeste,"Rua Pensilvânia, Cidade Moncoes, São Paulo Zona Oeste, São Paulo",57.0,2.0,2250
+oeste,"Avenida Francisco Matarazzo, Água Branca, São Paulo Zona Oeste, São Paulo",35.0,1.0,1150
+oeste,"Rua Oscar Freire, Pinheiros, São Paulo Zona Oeste, São Paulo",42.0,1.0,2800
+oeste,"Rua Ministro Godói, Perdizes, São Paulo Zona Oeste, São Paulo",70.0,1.0,2200
+oeste,"Rua Marie Nader Calfat, Jardim Ampliação, São Paulo Zona Oeste, São Paulo",36.0,1.0,2000
+oeste,"Rua Sansão Alves Dos Santos, Cidade Moncoes, São Paulo Zona Oeste, São Paulo",54.0,1.0,4630
+oeste,"Rua Francisco Luiz De Souza Júnior, Água Branca, São Paulo Zona Oeste, São Paulo",43.0,2.0,1920
+oeste,"Avenida Corifeu De Azevedo Marques, Butantã, São Paulo Zona Oeste, São Paulo",18.0,1.0,1090
+oeste,"Rua Coronel Otaviano Da Silveira, Ferreira, São Paulo Zona Oeste, São Paulo",50.0,3.0,2080
+oeste,"Rua Camilo Nader, Vila Morumbi, São Paulo Zona Oeste, São Paulo",155.0,3.0,3600
+oeste,"Rua Dos Pinheiros, Pinheiros, São Paulo Zona Oeste, São Paulo",72.0,2.0,7000
+oeste,"Avenida Corifeu De Azevedo Marques, Butantã, São Paulo Zona Oeste, São Paulo",30.0,1.0,1500
+oeste,"Avenida Corifeu De Azevedo Marques, Butantã, São Paulo Zona Oeste, São Paulo",20.0,1.0,1300
+oeste,"Rua Joaquim Antunes, Pinheiros, São Paulo Zona Oeste, São Paulo",54.0,2.0,3900
+oeste,"Rua Manuel Álvares Da Costa, Jardim Ester Yolanda, São Paulo Zona Oeste, São Paulo",15.0,1.0,1050
+oeste,"Avenida Aparecida Do Rio Negro, Jardim Íris, São Paulo Zona Oeste, São Paulo",43.0,2.0,1500
+oeste,"Avenida Corifeu De Azevedo Marques, Butantã, São Paulo Zona Oeste, São Paulo",20.0,1.0,1300
+oeste,"Avenida Corifeu De Azevedo Marques, Butantã, São Paulo Zona Oeste, São Paulo",18.0,1.0,1090
+oeste,"Rua Capote Valente, Pinheiros, São Paulo Zona Oeste, São Paulo",33.0,1.0,2000
+oeste,"Avenida Corifeu De Azevedo Marques, Butantã, São Paulo Zona Oeste, São Paulo",18.0,1.0,1085
+oeste,"Avenida Corifeu De Azevedo Marques, Butantã, São Paulo Zona Oeste, São Paulo",20.0,1.0,1275
+oeste,"Rua Júlio Rebollo Perez, Jardim Peri Peri, São Paulo Zona Oeste, São Paulo",28.0,1.0,1000
+oeste,"Avenida Júlio Buono, Jardim Brasília, São Paulo Zona Oeste, São Paulo",82.0,2.0,1664
+oeste,"Rua Júlio Rebollo Perez, Butantã, São Paulo Zona Oeste, São Paulo",22.0,1.0,1000
+oeste,"Avenida Aparecida Do Rio Negro, Jardim Íris, São Paulo Zona Oeste, São Paulo",48.0,2.0,1600
+oeste,"Cardoso De Almeida 840, Perdizes, São Paulo Zona Oeste, São Paulo",34.0,1.0,2250
+oeste,"Jardim Colombo, São Paulo Zona Oeste, São Paulo",36.0,1.0,1200
+oeste,"Rua Carubinha, Parque Esmeralda, São Paulo Zona Oeste, São Paulo",48.0,2.0,1000
+oeste,"Rua João Pereira Santos, Jardim Nova Germania, São Paulo Zona Oeste, São Paulo",35.0,1.0,850
+oeste,"Rua Moxei, Lapa De Baixo, São Paulo Zona Oeste, São Paulo",35.0,1.0,950
+oeste,"Rua Luciano Silva, Vila Das Belezas, São Paulo Zona Oeste, São Paulo",75.0,3.0,1400
+oeste,"Rua Luciano Silva, Vila Das Belezas, São Paulo Zona Oeste, São Paulo",58.0,2.0,1150
+oeste,"Rua Marie Nader Calfat, 270, Choice Panamby, Jardim Ampliação, São Paulo Zona Oeste, São Paulo",32.0,1.0,2300
+oeste,"Rua Itirapuã, Jardim Iracema, São Paulo Zona Oeste, São Paulo",35.0,1.0,1000
+oeste,"Rua Cardeal Arcoverde  745, Pinheiros, São Paulo Zona Oeste, São Paulo",42.0,,610000
+oeste,"Rua João Pereira Santos, Jardim Nova Germania, São Paulo Zona Oeste, São Paulo",35.0,1.0,850
+oeste,"Vila Butantã - São Paulo/sp, Vila Butantã, São Paulo Zona Oeste, São Paulo",64.0,3.0,1590
+oeste,"Rua Doutor Osvaldo Mellone, Vila Prel, São Paulo Zona Oeste, São Paulo",30.0,1.0,1000
+oeste,"Guaicurus 0000, Lapa, São Paulo Zona Oeste, São Paulo",294.0,,5900
+oeste,"Rua Pensilvânia,
+                114, Cidade Moncoes, São Paulo Zona Oeste, São Paulo",178.0,4.0,10000
+oeste,"Brooklin - São Paulo/sp, Rolinópolis, São Paulo Zona Oeste, São Paulo",180.0,2.0,2750
+oeste,"Rua Natingui, Vila Madalena, São Paulo Zona Oeste, São Paulo",35.0,,2400
+oeste,"Jardim São Jorge (raposo Tavares), São Paulo Zona Oeste, São Paulo",300.0,,7500
+oeste,"Pinheiros, São Paulo Zona Oeste, São Paulo",550.0,,20000
+oeste,"R Forte William, Jardim Fonte Do Morumbi, São Paulo Zona Oeste, São Paulo",266.0,4.0,7500
+oeste,"Rua Doutor João Batista Reimão, Jardim Bom Refúgio, São Paulo Zona Oeste, São Paulo",40.0,,1000
+oeste,"Butantã - São Paulo/sp, Butantã, São Paulo Zona Oeste, São Paulo",230.0,,10000
+oeste,"Rua Primeira Cruz, Parque Independência, São Paulo Zona Oeste, São Paulo",27.0,1.0,700
+oeste,"Super Quadra Morumbi, São Paulo Zona Oeste, São Paulo",55.0,1.0,1700
+oeste,"Avenida Diogenes Ribeiro De Lima, Alto Da Lapa, São Paulo Zona Oeste, São Paulo",43.0,1.0,2100
+oeste,"Jardim Colombo, São Paulo Zona Oeste, São Paulo",90.0,,2100
+oeste,"Jardim Colombo, São Paulo Zona Oeste, São Paulo",140.0,4.0,3100
+oeste,"Rua Doutor Osvaldo Mellone, Vila Prel, São Paulo Zona Oeste, São Paulo",35.0,1.0,1100
+oeste,"Rua Roma, Lapa, São Paulo Zona Oeste, São Paulo",117.0,3.0,1820
+oeste,"Rua Rosa Honoria De Jesus, Jardim Nova Germania, São Paulo Zona Oeste, São Paulo",42.0,1.0,950
+oeste,"Rua Tucuna, Perdizes, São Paulo Zona Oeste, São Paulo",40.0,1.0,1290
+oeste,"Rua Jaspe Negro, Alto Da Lapa, São Paulo Zona Oeste, São Paulo",1.0,2.0,2660
+oeste,"Avenida João Caiaffa, Jardim Taboão, São Paulo Zona Oeste, São Paulo",41.0,2.0,1300
+oeste,"Rua Doutor Agapito Xavier Da Costa, Jardim Esmeralda, São Paulo Zona Oeste, São Paulo",38.0,1.0,680
+oeste,"Rua Alves Guimarães, 1120, Pinheiros, São Paulo Zona Oeste, São Paulo",44.0,1.0,5200
+oeste,"Rua Natingui, 113, Vila Madalena, São Paulo Zona Oeste, São Paulo",137.0,3.0,5500
+oeste,"Rua Camargo 130, Butantã, São Paulo Zona Oeste, São Paulo",500.0,,27500
+oeste,"Rua Passo Da Pátria, 1294, Bela Aliança, São Paulo Zona Oeste, São Paulo",185.0,3.0,5500
+oeste,"Rua Eugênio Pradez, Jardim Piracuama, São Paulo Zona Oeste, São Paulo",42.0,1.0,1000
+oeste,"Rua Joseph Nigri, 149, Água Branca, São Paulo Zona Oeste, São Paulo",83.0,2.0,5430
+oeste,"Avenida Engenheiro Luiz Carlos Berrini, 105, Cidade Moncoes, São Paulo Zona Oeste, São Paulo",84.0,,5460
+oeste,"Avenida Intercontinental, Jardim Jussara, São Paulo Zona Oeste, São Paulo",49.0,2.0,1000
+oeste,"Rua Caetanópolis, Jaguaré, São Paulo Zona Oeste, São Paulo",57.0,3.0,1300
+oeste,"Rua Quitanduba, Caxingui, São Paulo Zona Oeste, São Paulo",65.0,2.0,2021
+oeste,"Avenida Diógenes Ribeiro De Lima, 2025, Alto De Pinheiros, São Paulo Zona Oeste, São Paulo",195.0,3.0,5500
+oeste,"Rua David Ben Gurion, 1074, Jardim Monte Kemel, São Paulo Zona Oeste, São Paulo",120.0,,5400
+oeste,"Rua Barão De Cacela, Jaguaré, São Paulo Zona Oeste, São Paulo",80.0,2.0,1500
+oeste,"Rua Inácio Manuel Álvares, Jardim Ester, São Paulo Zona Oeste, São Paulo",69.0,2.0,1100
+oeste,"Rua Girassol, Vila Madalena, São Paulo Zona Oeste, São Paulo",22.0,1.0,2380
+oeste,"Avenida Imperatriz Leopoldina, Vila Leopoldina, São Paulo Zona Oeste, São Paulo",45.0,1.0,1150
+oeste,"Avenida Marechal Fiuza De Castro, Jardim Pinheiros, São Paulo Zona Oeste, São Paulo",48.0,2.0,1100
+oeste,"Rua Francisco Dos Santos, Jardim Rizzo, São Paulo Zona Oeste, São Paulo",50.0,2.0,1300
+oeste,"Avenida Aparecida Do Rio Negro, Jardim Íris, São Paulo Zona Oeste, São Paulo",43.0,2.0,1500
+oeste,"Rua Adalívia De Toledo, Paineiras Do Morumbi, São Paulo Zona Oeste, São Paulo",290.0,4.0,12000
+oeste,"Rua Parnamirim, Jaguaré, São Paulo Zona Oeste, São Paulo",70.0,3.0,1400
+oeste,"Rua Alvarenga, Butantã, São Paulo Zona Oeste, São Paulo",21.0,1.0,1650
+oeste,"Rua Fernão Dias, Pinheiros, São Paulo Zona Oeste, São Paulo",36.0,1.0,2300
+oeste,"Avenida Cláudio Franchi, Jardim Monte Kemel, São Paulo Zona Oeste, São Paulo",40.0,1.0,1150
+oeste,"Rua Jaracatiá, Jardim Umarizal, São Paulo Zona Oeste, São Paulo",52.0,2.0,1500
+oeste,"Rua Abadia Dos Dourados, Vila Indiana, São Paulo Zona Oeste, São Paulo",20.0,1.0,900
+oeste,"Rua Caetano Ruggiero, Vila Butantã, São Paulo Zona Oeste, São Paulo",65.0,1.0,1350
+oeste,"Rua Hassib Mofarrej, Vila Leopoldina, São Paulo Zona Oeste, São Paulo",35.0,2.0,1550
+oeste,"Avenida Paula Ferreira, Vila Pirituba, São Paulo Zona Oeste, São Paulo",45.0,2.0,1400
+oeste,"Avenida Otacílio Tomanik, Vila Polopoli, São Paulo Zona Oeste, São Paulo",40.0,1.0,1000
+oeste,"Higienópolis, São Paulo Zona Oeste, São Paulo",130.0,3.0,5200
+oeste,"Rua Sansao Alves Dos Santos, 343, Cidade Moncoes, São Paulo Zona Oeste, São Paulo",60.0,2.0,5300
+oeste,"Rua Júlio Rebollo Perez, Butantã, São Paulo Zona Oeste, São Paulo",36.0,1.0,1400
+oeste,"Rua Xavier Kraus, Vila Leopoldina, São Paulo Zona Oeste, São Paulo",35.0,2.0,2010
+oeste,"Rua Jaracatia, Jardim Umarizal, São Paulo Zona Oeste, São Paulo",82.0,3.0,2700
+oeste,"Rua Minerva, Perdizes, São Paulo Zona Oeste, São Paulo",80.0,1.0,3500
+oeste,"Avenida Francisco Matarazzo, Água Branca, São Paulo Zona Oeste, São Paulo",20.0,1.0,1100
+oeste,"Rua Torres Da Barra, Água Branca, São Paulo Zona Oeste, São Paulo",31.0,1.0,1800
+oeste,"Rua Doutor Brasílio Rodrigues Dos Santos, Jardim Morro Verde, São Paulo Zona Oeste, São Paulo",60.0,2.0,1430
+oeste,"Rua Mourato Coelho, Pinheiros, São Paulo Zona Oeste, São Paulo",75.0,2.0,3100
+oeste,"Rua Doutor Luiz Migliano, Jardim Caboré, São Paulo Zona Oeste, São Paulo",70.0,3.0,2000
+oeste,"Avenida José Galante, Vila Suzana, São Paulo Zona Oeste, São Paulo",300.0,4.0,2440
+oeste,"Rua Dos Pinheiros, Pinheiros, São Paulo Zona Oeste, São Paulo",110.0,2.0,2750
+oeste,"Avenida Higienópolis, Higienópolis, São Paulo Zona Oeste, São Paulo",220.0,3.0,6940
+oeste,"Rua Corcovado, Parque Residencial Da Lapa, São Paulo Zona Oeste, São Paulo",70.0,2.0,1700
+oeste,"Rua Doutor César Salgado, Vila Praia, São Paulo Zona Oeste, São Paulo",180.0,3.0,4500
+oeste,"Rua Do Símbolo, Jardim Ampliação, São Paulo Zona Oeste, São Paulo",74.0,2.0,2100
+oeste,"Rua Correggio, Vila Suzana, São Paulo Zona Oeste, São Paulo",100.0,3.0,3400
+oeste,"Rua Elizabeth Barbegian Baldinato, Vila Suzana, São Paulo Zona Oeste, São Paulo",115.0,3.0,2000
+oeste,"Rua Desembargador Guimarães, Água Branca, São Paulo Zona Oeste, São Paulo",34.0,1.0,2200
+oeste,"Rua Ourânia, Vila Madalena, São Paulo Zona Oeste, São Paulo",59.0,2.0,4100
+oeste,"Rua José Correia Lima, Jardim Felicidade (zona Oeste), São Paulo Zona Oeste, São Paulo",81.0,3.0,2750
+oeste,"Rua Liberato Carvalho Leite, Vila Suzana, São Paulo Zona Oeste, São Paulo",223.0,4.0,3330
+oeste,"Rua Padre Pereira De Andrade, 545, Alto De Pinheiros, São Paulo Zona Oeste, São Paulo",165.0,3.0,5500
+oeste,"Rua Doutor Mario De Moura E Albuquerque, Jardim Monte Kemel, São Paulo Zona Oeste, São Paulo",104.0,2.0,3000
+oeste,"Avenida Doutor Guilherme Dumont Vilares, Jardim Londrina, São Paulo Zona Oeste, São Paulo",72.0,2.0,2010
+oeste,"Avenida Cláudio Franchi, Jardim Monte Kemel, São Paulo Zona Oeste, São Paulo",50.0,2.0,1200
+oeste,"Rua Professor José Horácio Meirelles Teixeira, Vila Suzana, São Paulo Zona Oeste, São Paulo",220.0,3.0,2000
+oeste,"Rua Iperoig, Perdizes, São Paulo Zona Oeste, São Paulo",80.0,2.0,1777
+oeste,"Rua Luso, Vila Tramontano, São Paulo Zona Oeste, São Paulo",450.0,1.0,6400
+oeste,"Rua Dona Veridiana, Higienópolis, São Paulo Zona Oeste, São Paulo",45.0,1.0,2300
+oeste,"Rua Tucuna, Perdizes, São Paulo Zona Oeste, São Paulo",145.0,3.0,6000
+oeste,"Rua Padre Eliseu Murari, Lar São Paulo, São Paulo Zona Oeste, São Paulo",512.0,4.0,9000
+oeste,"Rua Pascoal Vita, Vila Madalena, São Paulo Zona Oeste, São Paulo",82.0,3.0,3500
+oeste,"Rua José Arzão, Vila Praia, São Paulo Zona Oeste, São Paulo",50.0,2.0,1710
+oeste,"Rua Benedito Fáber, Super Quadra Morumbi, São Paulo Zona Oeste, São Paulo",53.0,2.0,1680
+oeste,"Rua Coriolano, Vila Romana, São Paulo Zona Oeste, São Paulo",103.0,2.0,2850
+oeste,"Avenida Raimundo Pereira De Magalhães, Jardim Íris, São Paulo Zona Oeste, São Paulo",54.0,2.0,1600
+oeste,"Rua Orobó, Alto De Pinheiros, São Paulo Zona Oeste, São Paulo",456.0,4.0,10000
+oeste,"Rua Teodor Herzi, Perdizes, São Paulo Zona Oeste, São Paulo",700.0,4.0,12000
+oeste,"Rua Marechal Hastinfilo De Moura, Vila Suzana, São Paulo Zona Oeste, São Paulo",140.0,3.0,1600
+oeste,"Rua Doutor Alfredo Di Verniere, Conjunto Residencial Butantã, São Paulo Zona Oeste, São Paulo",25.0,1.0,1230
+oeste,"Rua Pedro Colaço, Piqueri, São Paulo Zona Oeste, São Paulo",55.0,2.0,1190
+oeste,"Travessa Alberto Campos, Pinheiros, São Paulo Zona Oeste, São Paulo",98.0,3.0,2600
+oeste,"Rua Inácio Luís Da Costa, Parque São Domingos, São Paulo Zona Oeste, São Paulo",334.0,2.0,2700
+oeste,"Rua Piauí, Higienópolis, São Paulo Zona Oeste, São Paulo",480.0,4.0,13280
+oeste,"Rua Doutor Aires Martins Torres, Vila São Francisco, São Paulo Zona Oeste, São Paulo",620.0,4.0,15000
+oeste,"Rua Doutor Martins De Oliveira, Jardim Londrina, São Paulo Zona Oeste, São Paulo",64.0,3.0,2390
+oeste,"Rua Natingui, Vila Madalena, São Paulo Zona Oeste, São Paulo",44.0,1.0,3600
+oeste,"Rua Amaro Cavalheiro, Pinheiros, São Paulo Zona Oeste, São Paulo",150.0,3.0,4000
